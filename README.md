@@ -1,1 +1,1 @@
-# DicePoquerWhitepaper
+# Dice Poquer Whitepaper
