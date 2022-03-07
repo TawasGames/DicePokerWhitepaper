@@ -1,3 +1,3 @@
 # Dice Poquer Whitepaper
 
-**documet public whitepaper NFT**
+Esto es un parrafo
