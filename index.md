@@ -1,4 +1,6 @@
-# [DicePoker](/presentation.md)
+# Witepaper
+
+## [🎲 DicePoker](/presentation.md)
 
 ##### **PRE-VENTAS**
 
