@@ -2,7 +2,7 @@
 ### [Presentación](/presentation.md)
 ### [Cajas](/box.md)
 ### [Jugabilidad](/box.md)
-### [Casinos](/box.md)
+### [Casinos](/diceroom.md)
 ### [Energías](/box.md)
 ### [Dados](/box.md)
 ### [Cubiletes](/box.md)
