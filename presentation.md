@@ -17,3 +17,5 @@ Existirán 3 tipos de Cajas. Las mismas contendrán diferentes tipos de NFT:
 **Caja de Cubiletes:** Esta caja contendrá **1 Cubilete** con uno de los 5 tipos de rarezas posibles. Los mismos otorgarán ventajas en el juego según la rareza. Más información en **Cubiletes**.
 
 **Caja Random:** Esta caja contiene, como su nombre lo indica, recursos aleatorios que serán de utilidad en el juego.
+
+Me cago en Leo
