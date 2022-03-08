@@ -8,7 +8,7 @@ En la fase inicial de **Dice Poker**, se pondrán a la venta un número **limita
 - 3,000 **Cajas de Cubilete**
 - 100 **Cofres de DiceRooms**
 
-Finalizada la venta de estos Cofres, quienes queden fuera tendrán la oportunidad de comprar, pero su precio se duplicará. Es decir, que quienes estén en la Whitelist, duplicarán su inversión.
+Finalizada **la venta de estos** Cofres, quienes queden fuera tendrán la oportunidad de comprar, pero su precio se duplicará. Es decir, que quienes estén en la Whitelist, duplicarán su inversión.
 
 | Rareza | Probabilidad |
 | --- | --- |
