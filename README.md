@@ -1,4 +1,4 @@
-# Dice Poquer Whitepaper
+# Dice Poker Whitepaper
 
 Esto es un parrafo
 
