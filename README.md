@@ -1,8 +1,8 @@
 ### [DicePoker](/presentation.md)
-##### *VENTAS*
+##### **PRE-VENTAS**
+### [💰 Venta Token](/ventatoken.md)
 ### [📦 Cajas](/box.md)
-
-##### *JUGABILIDAD*
+##### **JUGABILIDAD**
 ### [🎮 Mecanicas](/gameplay.md)
 ### [🥃 Cubiletes](/box.md)
 ### [🎲 Dados](/box.md)
@@ -10,15 +10,24 @@
 ### [🎰 Casinos](/diceroom.md)
 ### [🔋 Energías](/box.md)
 ### [🧩 Accesorios](/box.md)
-##### *COMPETICIONES*
-### [🎢 Adventura](/box.md)
+##### **COMPETICIONES**
+### [🤜 Adventura](/box.md)
 ### [🏟 Casino(PVP)](/pvp.md)
 ### [🏆 Liga](/box.md)
-
-##### *MARKETPLACE*
+##### **MARKETPLACE**
+### [🏬 Marketplace](/marketplace.md)
 ##### *ROADMAP*
-##### *TOKENOMIC*
-##### *DICE-TEAM*
-##### *ACTUALIZACIONES*
+### [🗺 Roadmap](/box.md)
+##### **TOKENOMIC**
+### [👮🏻 IFDP](/oracle.md)
+### [💰 Informacion del Token](/infotoken.md)
 
-##### *PREGUNTAS FRECUENTES*
+### [📊 Distribución del Token](/distributiontoken.md)
+##### **DICE-TEAM**
+### [👥 ¿Quienes Somos?](/box.md)
+### [👥 ¿Quienes Somos?](/box.md)
+##### **ACTUALIZACIONES**
+### [🔄 Actualizaciones](/actualization.md)
+
+##### **PREGUNTAS FRECUENTES**
+### [⁉️ Preguntas Frecuentes](/faqs.md)
