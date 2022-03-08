@@ -38,22 +38,12 @@
 
 - ### [📊 Distribución del Token](/distributiontoken.md)-
 
-
-<!-- ##### **MARKETPLACE** -->
-
 ## [🏬 Marketplace](/marketplace.md)
 
-<!-- ##### *ROADMAP* -->
-
 ## [🗺 Roadmap](/box.md)
-<!-- ##### **DICE-TEAM** -->
 
 ## [👥 ¿Quienes Somos?](/box.md)
 
-<!-- ##### **ACTUALIZACIONES** -->
-
 ## [🔄 Actualizaciones](/actualization.md)
-
-<!-- ##### **PREGUNTAS FRECUENTES** -->
 
 ## [⁉️ Preguntas Frecuentes](/faqs.md)
