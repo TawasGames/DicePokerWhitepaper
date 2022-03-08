@@ -4,7 +4,7 @@
 ### [📦 Cajas](/box.md)
 ##### **JUGABILIDAD**
 ### [🎮 Mecanicas](/gameplay.md)
-### [🥃 Cubiletes](/box.md)
+### [🥃 Cubiletes](/dicecup.md)
 ### [🎲 Dados](/box.md)
 ### [💎 Equipos](/box.md)
 ### [🎰 Casinos](/diceroom.md)
@@ -19,13 +19,13 @@
 ##### *ROADMAP*
 ### [🗺 Roadmap](/box.md)
 ##### **TOKENOMIC**
-### [👮🏻 IFDP](/oracle.md)
-### [💰 Informacion del Token](/infotoken.md)
+### [👮🏻 IFDP(Oraculo)](/oracle.md)
+### [💰 Información del Token](/infotoken.md)
 
 ### [📊 Distribución del Token](/distributiontoken.md)
 ##### **DICE-TEAM**
 ### [👥 ¿Quienes Somos?](/box.md)
-### [👥 ¿Quienes Somos?](/box.md)
+
 ##### **ACTUALIZACIONES**
 ### [🔄 Actualizaciones](/actualization.md)
 
