@@ -19,3 +19,5 @@ Finalizada **la venta de estos** Cofres, quienes queden fuera tendrán la oportu
 | Esmeralda | 25% |
 | Zafiro | 10% |
 | Ruby | 8% |
+
+Me cago en MarkDown
