@@ -5,7 +5,7 @@
 ##### **JUGABILIDAD**
 ### [🎮 Mecanicas](/gameplay.md)
 ### [🥃 Cubiletes](/dicecup.md)
-### [🎲 Dados](/box.md)
+### [🎲 Dados](/dicepack.md)
 ### [💎 Equipos](/box.md)
 ### [🎰 Casinos](/diceroom.md)
 ### [🔋 Energías](/box.md)
