@@ -9,7 +9,7 @@
 ### [💎 Equipos](/box.md)
 ### [🎰 Casinos](/diceroom.md)
 ### [🔋 Energías](/energy.md)
-### [🧩 Accesorios](/box.md)
+### [🧩 Accesorios](/accessories.md)
 ##### **COMPETICIONES**
 ### [🤜 Adventura](/box.md)
 ### [🏟 Casino(PVP)](/pvp.md)
