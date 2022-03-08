@@ -8,7 +8,7 @@
 ### [🎲 Dados](/dicepack.md)
 ### [💎 Equipos](/box.md)
 ### [🎰 Casinos](/diceroom.md)
-### [🔋 Energías](/box.md)
+### [🔋 Energías](/energy.md)
 ### [🧩 Accesorios](/box.md)
 ##### **COMPETICIONES**
 ### [🤜 Adventura](/box.md)
