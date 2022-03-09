@@ -1,4 +1,4 @@
-# Witepaper
+# Whitepaper
 
 ## [🎲 DicePoker](/presentation.md)
 
