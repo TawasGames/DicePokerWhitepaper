@@ -38,7 +38,7 @@
 
 - ### [💰 Información del Token](/infotoken.md)
 
-- ### [📊 Distribución del Token](/distributiontoken.md)-
+- ### [📊 Distribución del Token](/distributiontoken.md)
 
 ### [🏬 Marketplace](/marketplace.md)
 
