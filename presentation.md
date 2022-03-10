@@ -17,8 +17,14 @@ La dinámica del juego es muy sencilla. Para participar, se deberán tener un **
 
 Existirán 3 tipos de Cajas. Las mismas contendrán diferentes tipos de NFT:
 
-- **Caja de Dados:** Esta caja contendrá **Packs de** **DADOS** y se distribuirán en 3 clases con precios diferentes: **Bronce, Silver y Gold**. Al abrirla, puedes obtener cualquiera de las 5 rarezas de **Dados** que existen en el juego, pero su contenido variará en cantidad y calidad, dependiendo del tipo. Más información en **Dados**.
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de2ca784-50b3-4b96-bc6e-9d8a1d030764/Untitled.png)
 
-- **Caja de Cubiletes:** Esta caja contendrá **Cubiletes** y se distribuirán en 3 clases con precios diferentes: **Bronce, Silver y Gold**. Al abrirla, puedes obtener cualquiera de las 5 rarezas de **Cubiletes** que existen en el juego, pero su contenido variará en cantidad y calidad, dependiendo del tipo. Más información en **Cubiletes**.
+**Caja de Dados:** Esta caja contendrá **Packs de** **DADOS** y se distribuirán en 3 clases con precios diferentes: **Bronce, Silver y Gold**. Al abrirla, puedes obtener cualquiera de las 5 rarezas de **Dados** que existen en el juego, pero su contenido variará en cantidad y calidad, dependiendo del tipo. Más información en **Dados**.
 
-- **Caja de Dicerooms:** Esta caja contendrá **Dicerooms** y se distribuirán en 3 clases con precios diferentes: **Bronce, Silver y Gold**. Al abrirla, puedes obtener cualquiera de las 5 rarezas de **Dicerooms** que existen en el juego, pero su contenido variará en cantidad y calidad, dependiendo del tipo. Más información en **Dicerooms**.
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de2ca784-50b3-4b96-bc6e-9d8a1d030764/Untitled.png)
+
+**Caja de Cubiletes:** Esta caja contendrá **Cubiletes** y se distribuirán en 3 clases con precios diferentes: **Bronce, Silver y Gold**. Al abrirla, puedes obtener cualquiera de las 5 rarezas de **Cubiletes** que existen en el juego, pero su contenido variará en cantidad y calidad, dependiendo del tipo. Más información en **Cubiletes**.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de2ca784-50b3-4b96-bc6e-9d8a1d030764/Untitled.png)
+
+**Caja de Dicerooms:** Esta caja contendrá **Dicerooms** y se distribuirán en 3 clases con precios diferentes: **Bronce, Silver y Gold**. Al abrirla, puedes obtener cualquiera de las 5 rarezas de **Dicerooms** que existen en el juego, pero su contenido variará en cantidad y calidad, dependiendo del tipo. Más información en **Dicerooms**.
