@@ -1,48 +1,60 @@
 En esta sección estaremos tratando toda la información relacionada con los loots que podrán obtener los jugadores para comenzar su aventura en Dice Land.
 
-## Primera Venta:
+Si futuros Dicers, habrá Whitelist en nuestro proyecto y será épico ¿Quienes serán nuestros usuarios VIP? . Nuestro equipo quiere que la relación con la comunidad sea excelente desde un principio y hemos optado por realizar una colaboración de mutuo beneficio con todos aquellos que se comprometan con el proyecto desde el día cero.
 
-Como ya te adelantamos en la presentación de nuestro proyecto, en la fase inicial de **Dice Poker Club** se pondrán a la venta un número **limitado** **de cajas/cofres** a los cuales solo podrán acceder aquellos usuarios registrados en la **Whitelist**. La cantidad de cajas puede variar 
+## Beneficios:
 
-### **Cajas a la venta:**
+- Compra de los primeros NFTs a un mejor precio.
+- Acceso anticipado de información para los creadores de contenido.
+- Canal Exclusivo de Consultas.
+- Posibilidad de entrada Libre al Primer Gran Torneo de Dice Poker Club
 
-- 25K **Cajas de Dados**
-- 5K **Cajas de Cubilete**
-- 4732 **Cajas Dicerooms**
+En la medida de lo posible prepararemos muchas más sorpresas, tanto para los usuarios de la Whitelist como para los que queden fuera, siempre trabajando por construir una buena relación con la comunidad. 
 
-Finalizada la venta de estos **Cofres**, aquellos usuarios que no hayan podido participar, no serán olvidados. Queremos que la comunidad esté al 100% implicada y prepararemos sorpresas especiales para aquellos que esperen pacientemente.
+## Condiciones iniciales:
 
-### Cajas de Dados:
+Todo tiene un inicio, una base y lo primero que vamos a pedirte es que mantengamos comunicación fluida por nuestros canales en redes sociales y chats. Únete a la comunidad:
 
-Los packs de dados son pieza indispensable para jugar a Dice Poker, por lo que te recomendamos invertir en obtener los mejores posibles. Cada caja que ofreceremos a la venta tendrá las siguientes características:
+- Síguenos en Twitter.
+- Hazte miembro activo de nuestro Discord.
+- Únete a nuestro Canal Oficial de Telegram.
 
-- Las cajas de dados contendrán X pack de dados.
-- Se pueden obtener packs dados de distinta calidad (rarezas)
-- Cuanto mejor sea la caja que se compre, más probabilidades tendrá el jugador de obtener un pack de calidad superior.
-- Las cajas superiores asegurarán un pack de dados con calidad mínima, superior a la básica.
-- Todas las cajas aseguran obtener al menos 1 pack de dados con rareza base, por tanto no existe la posibilidad de obtener una caja vacía. Si esto llegara a ocurrir debe reportarlo de inmediato.
+## Condiciones excluyentes:
 
-### Cajas de Cubiletes:
+También habrá reglas que cumplir y los tramposos que busquen obtener beneficios extras en detrimento del resto de la comunidad, no tendrán la posibilidad de entrar a la Whitelist. Serán excluidos aquellos usuarios que osen:
 
-Los cubiletes son muy importantes en el juego, pues complementan a los dados en la formación de equipos. Te recomendamos leer la sección **Equipos** para que te informes correctamente acerca de la proporción que debes mantener para sacar el mayor provecho posible a tu compra. Cada caja que ofreceremos a la venta tendrá las siguientes características:
+- Intentar registrar más de una Wallet en la Whitelist.
+- Usar bots o cuentas falsas para registrarse en la Whitelist.
+- Entre otras infracciones que más adelante añadiremos
 
-- Las cajas de cubiletes contendrán X cantidad de cubiletes..
-- Se pueden obtener cubiletes de distinta calidad (rarezas)
-- Cuanto mejor sea la caja que se compre, más probabilidades tendrá el jugador de obtener un cubiletes de calidad superior.
-- Las cajas superiores asegurarán un cubilete con calidad mínima, superior a la básica.
-- Todas las cajas aseguran obtener al menos 1 cubilete con rareza base, por tanto no existe la posibilidad de obtener una caja vacía. Si esto llegara a ocurrir debe reportarlo de inmediato.
+## Entrada definitiva:
 
-### Cajas de DiceRoom:
+Sentadas las bases empieza lo mejor ¡Ganarte la entrada a la Whitelist! Pero no te preocupes, no tienes que ser un dios del mundo NFT, estará al alcance de todos esta posibilidad. Hasta el momento hemos definido 3 vías de entradas principales:
 
-Por último, pero no menos importantes, encontramos a los DiceRooms. De manera directa no tendrán una influencia sustancial en el juego, pero en las fases más avanzadas serán cruciales para crecer dentro de Dice Poker Club. En estas locaciones se jugarán las partidas más importantes de Diceland tales como los torneos. Para más información visitar la sección dedicada a los Dicerooms. Cada caja de dicerooms tendrá  las siguientes características:
+### Compromiso con la comunidad (3000)
 
-- Las cajas de **Dicerooms** contendrán X cantidad de Dicerooms.
-- Se pueden obtener Dicerooms de distinta calidad (rarezas)
-- Cuanto mejor sea la caja que se compre, más probabilidades tendrá el jugador de obtener un Diceroom de calidad superior.
-- Las cajas superiores asegurarán un **Dicerooms** con calidad mínima, superior a la básica.
-- Todas las cajas aseguran obtener al menos 1 **Dicerooms** con rareza base, por tanto no existe la posibilidad de obtener una caja vacía. Si esto llegara a ocurrir debe reportarlo de inmediato.
+Queremos usuarios activos, que se hable de nuestro proyecto. Aceptamos elogios y críticas pues ambos nos hacen trabajar con más ganas. Y por supuesto este será el primer grupo de usuario que vamos a premiar por su fidelidad. Efectúa estas actividades y entrarás en la Whitelist.
 
-<aside>
-💡 Para conocer las fechas de los distintos eventos relacionados con la venta de todos nuestros NFTs te recomendamos seguirnos y mantenerte activo en nuestros canales oficiales tales como Telegram, Discord o Twitter.
+- Interactuar con frecuencia en los chats y grupos del juego.
+- Dar la bienvenida a los nuevos usuarios y asistirles en las dudas que puedan tener.
+- Invitar amigos a unirse y participar en nuestros canales de comunicación.
 
-</aside>
+### Memes y artes:
+
+Los creativos siempre tendrán un lugar en el mundo de los NFTs y en la comunidad de Dice Poker Club de seguro no será diferente. También premiaremos a aquellos que nos dediquen sus mejores trazos y pinceladas. 
+
+- Creación de Fan Art y diseños de arte NFTs (skins y características)
+- Memes, historietas (comic) y tiras cómicas.
+- Otras creaciones artísticas para el disfrute de la comunidad.
+
+### Creador de contenido:
+
+Por supuesto los creadores de contenido también tendrán un lugar entre nuestros usuarios más  afortunados. Se tendrán en cuenta todo tipo de contenidos:
+
+- Videos en tu canal de YouTube
+- Videos divertidos de Tik tok
+- Videos Facebook Watch
+- Artículos interesantes de Reddit
+- Publicaciones y artículos en tu Blog/Web
+
+El contenido queda a tu imaginación. Puedes hacernos una mención, un videotutorial del juego o simplemente emitir tu opinión. Lo importante es difundir este gran proyecto que esperamos dure muchos años.
