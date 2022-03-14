@@ -1,5 +1,3 @@
-# Cajas
-
 En esta sección estaremos tratando toda la información relacionada con los loots que podrán obtener los jugadores para comenzar su aventura en Dice Land.
 
 ## Primera Venta:
