@@ -4,6 +4,7 @@
 ### [📦 Cajas](/box.md)
 ##### **JUGABILIDAD**
 ### [🎮 Mecanicas](/gameplay.md)
+### [🎮 Licencia de Juego](/gamelicence.md)
 ### [🥃 Cubiletes](/dicecup.md)
 ### [🎲 Dados](/dicepack.md)
 ### [💎 Equipos](/box.md)

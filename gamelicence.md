@@ -2,7 +2,7 @@
 
 ## Generalidades
 
-Las Licencias de Juego son una condición necesaria para poder poner tus equipos en juego. Una vez formado un equipo es **OBLIGATORIO** antes de jugar el **Modo Aventuras,** enfrentarte en **Duelo** a otro jugador o participar en un **Torneo/Liga,** que el mismo se encuentre bajo una licencia activa.
+Las Licencias de Juego son una condición necesaria para jugar. Una vez formado un equipo es OBLIGATORIO que el mismo se encuentre bajo licencia activa antes de poder acceder al Modo Aventuras, enfrentarte en Duelo a otro jugador o participar en un Torneo/Liga.
 
 ## Duración y costo de las Licencias
 
