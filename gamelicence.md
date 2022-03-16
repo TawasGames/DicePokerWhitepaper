@@ -1,6 +1,6 @@
 ¿Ya formaste tu equipo? Entonces ¡es hora de jugar!, pero antes, **hazte con tu Licencia de Juego**. 
 
-## Generalidades
+# Generalidades
 
 Las Licencias de Juego son una condición necesaria para jugar. Una vez formado un equipo es OBLIGATORIO que el mismo se encuentre bajo licencia activa antes de poder acceder al Modo Aventuras, enfrentarte en Duelo a otro jugador o participar en un Torneo/Liga.
 

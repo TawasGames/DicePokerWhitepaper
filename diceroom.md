@@ -1,4 +1,4 @@
-## Dice-Room en Casinos❌ ✅
+# Dice-Room en Casinos❌ ✅
 
 
 Los **Dice-Room** son **NFTs** especiales, localizados dentro de los casinos alrededor de Diceland.

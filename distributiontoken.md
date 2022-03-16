@@ -1,4 +1,4 @@
-## Distribución del Token
+# Distribución del Token
 
 
 

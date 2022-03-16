@@ -1,4 +1,4 @@
-## Presentación
+# Presentación
 
 ¡Bienvenidos jugadores! Les presentamos el primer juego de **Dice Poker** en el **Crypto Mundo**. Prepárate para poner a prueba tu suerte, tu estrategia y sobre todo para obtener beneficios cada día.
 
