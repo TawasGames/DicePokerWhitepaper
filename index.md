@@ -4,9 +4,9 @@
 
 ##### **PRE-VENTAS**
 
-- ### [💰 Venta Token](/ventatoken.md)
-
-- ### [📦 Cajas](/box.md)
+    - ### [💰 Venta Token](/ventatoken.md)
+    
+    - ### [📦 Cajas](/box.md)
 
 ##### **JUGABILIDAD**
 
