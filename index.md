@@ -1,51 +1,51 @@
 # Whitepaper
 
-## [🎲 DicePoker](/presentation.md)
+### [🎲 DicePoker](/presentation.md)
 
-## **PRE-VENTAS**
+### **PRE-VENTAS**
 
-- ### [💰 Venta Token](/ventatoken.md)
+- #### [💰 Venta Token](/ventatoken.md)
 
-- ### [📦 Cajas](/box.md)
+- #### [📦 Cajas](/box.md)
 
-## **JUGABILIDAD**
+### **JUGABILIDAD**
 
-- ### [🎮 Mecanicas](/gameplay.md)
+- #### [🎮 Mecanicas](/gameplay.md)
 
-- ### [🥃 Cubiletes](/dicecup.md)
+- #### [🥃 Cubiletes](/dicecup.md)
 
-- ### [🎲 Dados](/box.md)
+- #### [🎲 Dados](/box.md)
 
-- ### [💎 Equipos](/box.md)
+- #### [💎 Equipos](/box.md)
 
-- ### [🎰 Casinos](/diceroom.md)
+- #### [🎰 Casinos](/diceroom.md)
 
-- ### [🔋 Energías](/box.md)
+- #### [🔋 Energías](/box.md)
 
-- ### [🧩 Accesorios](/box.md)
+- #### [🧩 Accesorios](/box.md)
 
-## **COMPETICIONES**
+### **COMPETICIONES**
 
-- ### [🤜 Adventura](/box.md)
+- #### [🤜 Adventura](/box.md)
 
-- ### [🏟 Casino(PVP)](/pvp.md)
+- #### [🏟 Casino(PVP)](/pvp.md)
 
-- ### [🏆 Liga](/box.md)
+- #### [🏆 Liga](/box.md)
 
-## **TOKENOMIC**
+### **TOKENOMIC**
 
-- ### [👮🏻 IFDP(Oraculo)](/oracle.md)
+- #### [👮🏻 IFDP(Oraculo)](/oracle.md)
 
-- ### [💰 Información del Token](/infotoken.md)
+- #### [💰 Información del Token](/infotoken.md)
 
-- ### [📊 Distribución del Token](/distributiontoken.md)
+- #### [📊 Distribución del Token](/distributiontoken.md)
 
-## [🏬 Marketplace](/marketplace.md)
+### [🏬 Marketplace](/marketplace.md)
 
-## [🗺 Roadmap](/box.md)
+### [🗺 Roadmap](/box.md)
 
-## [👥 ¿Quienes Somos?](/box.md)
+### [👥 ¿Quienes Somos?](/box.md)
 
-## [🔄 Actualizaciones](/actualization.md)
+### [🔄 Actualizaciones](/actualization.md)
 
-## [⁉️ Preguntas Frecuentes](/faqs.md)
+### [⁉️ Preguntas Frecuentes](/faqs.md)
