@@ -28,11 +28,11 @@ La **Energía** limitará la cantidad de partidas que puedes jugar en un día ta
 
 La **Durabilidad** se consumirá con cada partida jugada, llegando un momento en que el usuario deberá reparar sus dados para poder continuar jugando. También será posible potenciarla para ampliar estratégicamente los usos de tu **Pack de Dados.**
 
-### Potencial de Mejora**:**
+### Potencial de Poder**:**
 
-**Esta es una STAT ESPECIAL y se encuentra en cada uno de los dados del pack. El promedio define la cantidad final de Potencial de Mejora que tendrá tu Pack de Dados.** 
+**Esta es una STAT ESPECIAL y se encuentra en cada uno de los dados del pack. El promedio define la cantidad final de Potencial de Poder que tendrá tu Pack de Dados.** 
 
-**El Potencial de Mejora es variable.** **Cada calidad posee rangos de Potencial de Mejora.** Puedes ver los detalles en la Tabla de características de más adelante.
+**El Potencial de Poder es variable.** **Cada calidad posee rangos de Potencial de Poder.** Puedes ver los detalles en la Tabla de características de más adelante.
 
 El **Potencial de Poder** permitirá mejorar el resto de stats durante 24 horas. Podrás aplicar tantas mejoras como **Ranuras de Poder** posea el Cubilete(s) con que formes equipo. Más detalles en **Cubiletes.**
 
