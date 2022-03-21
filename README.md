@@ -6,7 +6,7 @@
 ### [🎮 Mecanicas](/gameplay.md)
 ### [🎮 Licencia de Juego](/gamelicence.md)
 ### [🥃 Cubiletes](/dicecup.md)
-### [🎲 Dados](/dicepack.md)
+### [🎲 Paquete de Dados](/dicepack.md)
 ### [💎 Equipos](/box.md)
 ### [🎰 Casinos](/diceroom.md)
 ### [🔋 Energías](/energy.md)
