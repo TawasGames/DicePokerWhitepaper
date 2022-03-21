@@ -1,16 +1,40 @@
-Para participar del juego será necesario contar con al menos 1 pack de dados. Podrás adquirir los Packs (NFTs) abriendo **una caja**.
+El Packs de Dados es uno de los NFTs necesarios para formar un equipo y así competir en Dice Poker Club. **Necesitarás de al menos 1 pack de calidad común (Plástico) para iniciarte.** Estos se obtienen ****abriendo **Cajas** o comprándolos a otros jugadores en el **Mercado.**
 
 **Los Packs de dados** contarán con 4 atributos ****principales los cuales tendrán su rol dentro del juego**.**
 
-Los atributos son Poker Skill (PS), Energía (E), Durabilidad (D) y Huecos de Mejoras. A continuación explicaremos de manera general su función en el juego.
+Los atributos son **Poker Skill (PSK), Energía (E), Durabilidad (D)** y **Hoyos de Poder(PSL)**. A continuación explicaremos de manera general su función en el juego. A continuación te resumimos sus características y funciones.
 
-**Poker Skill:** Limitará dentro del juego cuanto podrás avanzar en el mapa PVE y en el modo PVP a las locaciones a las que podrás acceder para jugar.
+### **Poker Skill:**
 
-**Energía:** Limitará la cantidad de partidas que podrás jugar en un día.
+**Esta stat se encuentra en cada uno de los dados del pack. La suma define la cantidad final de Poker Skill que tendrá tu Pack de Dados.** 
 
-**Durabilidad:** Limitará los usos que puedes darle a un pack de dados. 
+**El** **Poker Skill** **es variable**. **Cada calidad posee rangos de Poker Skill.** Puedes ver estos rangos en la Tabla de características de más adelante.
 
-**Power Slot:** Te permitirá mejorar los atributos anteriores durante 24 horas. Ver sección de Boost
+El **Poker Skill** limitará hasta que nivel puedes avanzar en el **Modo Aventuras**. Esto no significa que puedas saltar directamente al último nivel permitido, antes deberás completar cada nivel comenzando por el primero.
+
+### **Energía:**
+
+**Esta stat se encuentra en cada uno de los dados del pack. El Promedio define la cantidad final de Energía que tendrá tu Pack de Dados.** 
+
+**La** **Energía es fija.** **Cada calidad posee una cantidad de Energía específica.** Puedes ver los detalles en la Tabla de características de más adelante.
+
+La **Energía** limitará la cantidad de partidas que puedes jugar en un día tanto en **Modo Aventuras(PVE)** como en **Multijugador (PvP**). A su vez la **Energía** que posee tu **Pack de Dados** puede verse limitada por el **Cubilete(s)** con que formes equipo. Más detalles en **Cubiletes**
+
+### **Durabilidad:**
+
+**Esta stat se encuentra en cada uno de los dados del pack. La suma define la cantidad final de Durabilidad que tendrá tu Pack de Dados.** 
+
+**La** **Durabilidad es fija.** **Cada calidad posee una cantidad de Durabilidad específica.** Puedes ver los detalles en la Tabla de características de más adelante.
+
+La **Durabilidad** se consumirá con cada partida jugada, llegando un momento en que el usuario deberá reparar sus dados para poder continuar jugando. También será posible potenciarla para ampliar estratégicamente los usos de tu **Pack de Dados.**
+
+### Potencial de Mejora**:**
+
+**Esta es una STAT ESPECIAL y se encuentra en cada uno de los dados del pack. El promedio define la cantidad final de Potencial de Mejora que tendrá tu Pack de Dados.** 
+
+**El Potencial de Mejora es variable.** **Cada calidad posee rangos de Potencial de Mejora.** Puedes ver los detalles en la Tabla de características de más adelante.
+
+El **Potencial de Poder** permitirá mejorar el resto de stats durante 24 horas. Podrás aplicar tantas mejoras como **Ranuras de Poder** posea el Cubilete(s) con que formes equipo. Más detalles en **Cubiletes.**
 
 Al abrir una caja el chance de obtener las rarezas es el siguiente, así mismo los atributos que alcanza cada una:
 
