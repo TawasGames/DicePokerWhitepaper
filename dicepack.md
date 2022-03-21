@@ -1,7 +1,6 @@
-El Packs de Dados es uno de los NFTs necesarios para formar un equipo y así competir en Dice Poker Club. **Necesitarás de al menos 1 pack de calidad común (Plástico) para iniciarte.** Estos se obtienen ****abriendo **Cajas** o comprándolos a otros jugadores en el **Mercado.**
+El Packs de Dados es uno de los NFTs necesarios para formar un equipo y así competir en Dice Poker Club. **Necesitarás de al menos 1 pack de calidad común (Plástico) para iniciarte.** Estos se obtienen abriendo **Cajas** o comprándolos a otros jugadores en el **Mercado.**
 
-**Los Packs de dados** contarán con 4 atributos ****principales los cuales tendrán su rol dentro del juego**.**
-
+**Los Packs de dados** contarán con 4 atributos ****principales los cuales tendrán su rol dentro del juego**
 Los atributos son **Poker Skill (PSK), Energía (E), Durabilidad (D)** y **Hoyos de Poder(PSL)**. A continuación explicaremos de manera general su función en el juego. A continuación te resumimos sus características y funciones.
 
 ### **Poker Skill:**
