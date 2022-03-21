@@ -14,7 +14,7 @@
 
 - #### [🥃 Cubiletes](/dicecup.md)
 
-- #### [🎲 Dados](/box.md)
+- #### [🎲 Paquete de Dados](/dicepack.md)
 
 - #### [💎 Equipos](/box.md)
 
