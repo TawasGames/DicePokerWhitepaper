@@ -22,13 +22,13 @@ La **Capacidad de Packs** indica la cantidad de **Packs de Dados** que puedes as
 
 La **Capacidad de Energía** indica la cantidad de **Energía** máxima que puede asimilar un **Cubilete** procedente de tus **Packs de Dados** al formar un **Equipo**. Los equipos nuncan poseerán **Energía** por encima de la suma de tus **Cubiletes**
 
-### **Durabilidad:**
+### **Magnetismo:**
 
-**Esta stat es propia de cada Cubilete y nunca es cero** 
+**Esta stat es propia de cada Cubilete y nunca es cero**
 
-**El Durabilidad es variable. Cada calidad posee rangos de Durabilidad.** Puedes ver los detalles en la Tabla de características de más adelante.
+**El Durabilidad es fija.** **Cada calidad de Cubilete posee una Durabilidad específica.** Puedes ver los detalles en la Tabla de características de más adelante.
 
-El **Durabilidad** aumenta las probabilidades de poder emplear **Pack de Dados** de la misma calidad durante las rondas de las partidas. 
+La **Durabilidad** se consumirá con cada partida jugada, llegando un momento en que el usuario deberá reparar sus dados para poder continuar jugando. También será posible potenciarla para ampliar estratégicamente los usos de tu **Pack de Dados.**
 
 ### Ranuras de Poder:
 
