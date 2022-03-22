@@ -39,7 +39,7 @@ El **Potencial de Poder** permitirá mejorar el resto de stats durante 24 horas.
 
 Al abrir una caja el chance de obtener las rarezas es el siguiente, así mismo los atributos que alcanza cada una:
 
-| Rareza    | Chance- Drop | PS Rango | Energía | Durabilidad | Power Slot |
+| Rareza    | Chance- Drop | PS Rango | Energía | Durabilidad | Potencial  |
 | ---       | ---          | ---      | ---     | ---         | ---        |
 | Diamante  | 1%           | 201-250  | 10      | 10          | 0-3        |
 | Rubí      | 2%           | 151-200  | 8       | 8           | 0-3        |
