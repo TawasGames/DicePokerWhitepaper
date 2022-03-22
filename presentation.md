@@ -1,5 +1,6 @@
 # Presentación
-
+[TOC]
+[toc]
 ¡Bienvenidos jugadores! Les presentamos el primer juego de **Dice Poker** en el **Crypto Mundo**. Prepárate para poner a prueba tu suerte, tu estrategia y sobre todo para obtener beneficios cada día.
 
 **DICE POKER CLUB es un juego NFT** basado en el clásico juego de dados del mismo nombre, aunque dependiendo de la región, es conocido de manera diferente. En él podrás disfrutar de emocionantes partidas con el objetivo de obtener ganancias y mejorar tu equipo. **También podrás desafiar a otros jugadores, participar en torneos y jugar en locaciones cada vez más rentables**.
