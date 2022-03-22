@@ -40,10 +40,10 @@ El **Ranuras de Poder** es la capacidad máxima de mejoras que puedes realizar s
 
 Las estadísticas de estos **Cubiletes** serán las siguientes:
 
-| Rareza | Chance- Drop | Packs | cont/Ener | Magnetismo |
-| --- | --- | --- | --- | --- |
-| Diamante | 1% | 5 | 10 | 10 |
-| Rubí | 2% | 4 | 8 | 8 |
-| Zafiro | 15% | 3 | 6 | 6 |
-| Esmeralda | 35% | 2 | 4 | 4 |
-| Plástico | 44% | 1 | 2 | 2 |
+| Rareza    | Chance- Drop | Packs | cont/Ener | Magnetismo |
+| ---       | ---          | ---   | ---       | ---        |
+| Diamante  | 1%           | 5     | 10        | 10         |
+| Rubí      | 2%           | 4     | 8         | 8          |
+| Zafiro    | 15%          | 3     | 6         | 6          |
+| Esmeralda | 35%          | 2     | 4         | 4          |
+| Plástico  | 44%          | 1     | 2         | 2          |
