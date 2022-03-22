@@ -39,13 +39,13 @@ El **Potencial de Poder** permitirá mejorar el resto de stats durante 24 horas.
 
 Al abrir una caja el chance de obtener las rarezas es el siguiente, así mismo los atributos que alcanza cada una:
 
-| Rareza | Chance- Drop | PS Rango | Energía | Durabilidad | Power Slot |
-| --- | --- | --- | --- | --- | --- |
-| Diamante | 1% | 201-250 | 10 | 10 | 0-3 |
-| Rubí | 2% | 151-200 | 8 | 8 | 0-3 |
-| Zafiro | 15% | 101-150 | 6 | 6 | 0-3 |
-| Esmeralda | 35% | 51-100 | 4 | 4 | 0-3 |
-| Plástico | 44% | 5-50 | 2 | 2 | 0-3 |
+| Rareza    | Chance- Drop | PS Rango | Energía | Durabilidad | Power Slot |
+| ---       | ---          | ---      | ---     | ---         | ---        |
+| Diamante  | 1%           | 201-250  | 10      | 10          | 0-3        |
+| Rubí      | 2%           | 151-200  | 8       | 8           | 0-3        |
+| Zafiro    | 15%          | 101-150  | 6       | 6           | 0-3        |
+| Esmeralda | 35%          | 51-100   | 4       | 4           | 0-3        |
+| Plástico  | 44%          | 5-50     | 2       | 2           | 0-3        |
 
 Los Boost te permitirán mejorar los atributos de tus packs y podrás aplicar tantos como Slots tengan tus packs. Ver más en la sección Boost.
 
