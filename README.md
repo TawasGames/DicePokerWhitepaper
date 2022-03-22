@@ -25,10 +25,10 @@
 
 ### [📊 Distribución del Token](/distributiontoken.md)
 ##### **DICE-TEAM**
-### [👥 ¿Quienes Somos?](/box.md)
+### [👥 ¿Quienes Somos?](/whoweare.md)
 
 ##### **ACTUALIZACIONES**
-### [🔄 Actualizaciones](/actualization.md)
+### [🪂 Airdrop](/airdrop.md)
 
 ##### **PREGUNTAS FRECUENTES**
 ### [⁉️ Preguntas Frecuentes](/faqs.md)
