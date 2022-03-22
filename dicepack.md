@@ -3,7 +3,7 @@
 El Packs de Dados es uno de los NFTs necesarios para formar un equipo y así competir en Dice Poker Club. **Necesitarás de al menos 1 pack de calidad común (Plástico) para iniciarte.** Estos se obtienen abriendo **Cajas** o comprándolos a otros jugadores en el **Mercado.**
 
 **Los Packs de dados contarán con 4 atributos principales los cuales tendrán su rol dentro del juego**
-Los atributos son **Poker Skill (PSK), Energía (E), Durabilidad (D)** y **Potencial de Poder(PSL)**. A continuación explicaremos de manera general su función en el juego:
+Los atributos son **Poker Skill (PSK), Energía (E), Durabilidad (D)** y **Aumento de Potencia(PSL)**. A continuación explicaremos de manera general su función en el juego:
 
 ### **Poker Skill:**
 
@@ -29,17 +29,17 @@ La **Energía** limitará la cantidad de partidas que puedes jugar en un día ta
 
 La **Durabilidad** se consumirá con cada partida jugada, llegando un momento en que el usuario deberá reparar sus dados para poder continuar jugando. También será posible potenciarla para ampliar estratégicamente los usos de tu **Pack de Dados.**
 
-### Potencial de Poder**:**
+### Aumento de Potencia**:**
 
-**Esta es una STAT ESPECIAL y se encuentra en cada uno de los dados del pack. El promedio define la cantidad final de Potencial de Poder que tendrá tu Pack de Dados.** 
+**Esta es una STAT ESPECIAL y se encuentra en cada uno de los dados del pack. El promedio define la cantidad final de Aumento de Potencia que tendrá tu Pack de Dados.** 
 
-**El Potencial de Poder es variable. Cada calidad posee rangos de Potencial de Poder.** Puedes ver los detalles en la Tabla de características de más adelante.
+**El Aumento de Potencia es variable. Cada calidad posee rangos de Aumento de Potencia.** Puedes ver los detalles en la Tabla de características de más adelante.
 
-El **Potencial de Poder** permitirá mejorar el resto de stats durante 24 horas. Podrás aplicar tantas mejoras como **Ranuras de Poder** posea el Cubilete(s) con que formes equipo. Más detalles en **Cubiletes.**
+El **Aumento de Potencia** permitirá mejorar el resto de stats durante 24 horas. Podrás aplicar tantas mejoras como **Ranuras de Poder** posea el Cubilete(s) con que formes equipo. Más detalles en **Cubiletes.**
 
 Al abrir una caja el chance de obtener las rarezas es el siguiente, así mismo los atributos que alcanza cada una:
 
-| Rareza    | Chance- Drop | PS Rango | Energía | Durabilidad | Potencial  |
+| Rareza    | Chance- Drop | PS Rango | Energía | Durabilidad | Potencia   |
 | ---       | ---          | ---      | ---     | ---         | ---        |
 | Diamante  | 1%           | 201-250  | 10      | 10          | 0-3        |
 | Rubí      | 2%           | 151-200  | 8       | 8           | 0-3        |
