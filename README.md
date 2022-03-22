@@ -14,7 +14,7 @@
 ##### **COMPETICIONES**
 ### [🤜 Adventura](/box.md)
 ### [🏟 Casino(PVP)](/pvp.md)
-### [🏆 Liga](/box.md)
+### [🏆 Liga](/leagues.md)
 ##### **MARKETPLACE**
 ### [🏬 Marketplace](/marketplace.md)
 ##### *ROADMAP*
