@@ -29,7 +29,7 @@ La **Energía** limitará la cantidad de partidas que puedes jugar en un día ta
 
 La **Durabilidad** se consumirá con cada partida jugada, llegando un momento en que el usuario deberá reparar sus dados para poder continuar jugando. También será posible potenciarla para ampliar estratégicamente los usos de tu **Pack de Dados.**
 
-### Aumento de Potencia**:**
+### Potencial de Mejora:
 
 **Esta es una STAT ESPECIAL y se encuentra en cada uno de los dados del pack. El promedio define la cantidad final de Aumento de Potencia que tendrá tu Pack de Dados.** 
 
