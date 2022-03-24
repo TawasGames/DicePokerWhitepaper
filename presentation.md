@@ -9,7 +9,7 @@
 
 La dinámica del juego es muy sencilla. Para participar, se deberán tener un **Equipo** formado por un conjunto de **Dados** y al menos 1 **Cubilete**. Dentro del juego, habrá distintos **Niveles de Cuenta**. Los mismos se regirán por los **LOGROS** que el jugador haya sido capaz de desbloquear.
 
-💡 La rareza de la cuenta te permitirá acceder a determinados eventos VIP dentro del juego
+>💡 La rareza de la cuenta te permitirá acceder a determinados eventos VIP dentro del juego
 
 ## **Cajas: Dados, Cubiletes y DiceRooms**
 
