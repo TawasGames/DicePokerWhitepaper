@@ -67,10 +67,6 @@ El coste de **contratar** tu Equipo es de **1$** por cada Pack que en ella se en
 | 15 Días | $7 USD - Se paga en $Dice dependiendo del precio del BlackMarket (Oráculo) |
 | 30 Días | $7 USD - Se paga en $Dice dependiendo del precio del BlackMarket (Oráculo) |
 
----
-
----
-
 Los Equipos empezarán desde el nivel 0 a medida que tu Equipo vaya compitiendo irá ganando experiencia y subiendo de nivel, el nivel de tu equipo mejorará tus recompensas a medida que progreses a través de los niveles.
 
 Obtienes 5 puntos de experiencia de manera lineal en cada competencia que asistas (ganes o pierdas).

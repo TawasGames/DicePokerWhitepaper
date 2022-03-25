@@ -44,7 +44,5 @@ Por último, pero no menos importantes, encontramos a los DiceRooms. De manera d
 - Las cajas superiores asegurarán un **Dicerooms** con calidad mínima, superior a la básica.
 - Todas las cajas aseguran obtener al menos 1 **Dicerooms** con rareza base, por tanto no existe la posibilidad de obtener una caja vacía. Si esto llegara a ocurrir debe reportarlo de inmediato.
 
-<aside>
-💡 Para conocer las fechas de los distintos eventos relacionados con la venta de todos nuestros NFTs te recomendamos seguirnos y mantenerte activo en nuestros canales oficiales tales como Telegram, Discord o Twitter.
 
-</aside>
+>💡 Para conocer las fechas de los distintos eventos relacionados con la venta de todos nuestros NFTs te recomendamos seguirnos y mantenerte activo en nuestros canales oficiales tales como Telegram, Discord o Twitter.

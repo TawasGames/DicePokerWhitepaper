@@ -13,10 +13,8 @@ La duración de las **Licencias de Juego** será variable y el jugador es libre 
 - **La Licencia Quincenal** extiende la posibilidad de mantener tu equipo en juego hasta los 15 días. Su costo es menor que la semanal. Es perfecta para jugadores que comienzan con poca inversión al permitirte ahorrar y acumular recursos para realizar mejoras más relevantes en tu equipo.
 - **La Licencia Mensual** extiende a 30 días la participación de tu equipo en el juego. Es la licencia que menor costo por día tendrá en el juego y puede convertirse en la más rentable si tu equipo ya no necesita mejoras o necesitas reunir muchos recursos para actualizarlo.
 
-<aside>
-💡 Es necesario activar una licencia por cada equipo que posea el jugador, pero sus frecuencias y costos son independientes, permitiéndote así poder planificar distintas estrategias para cada uno de tus equipos.
 
-</aside>
+💡 Es necesario activar una licencia por cada equipo que posea el jugador, pero sus frecuencias y costos son independientes, permitiéndote así poder planificar distintas estrategias para cada uno de tus equipos.
 
 ## Funcionamiento de la Licencia de Juego
 
