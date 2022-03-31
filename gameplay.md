@@ -35,8 +35,19 @@ Una vez haz rellenado el espacio correspondiente a una cara (puntuado) no podrá
 - El **Rojo** tiene un valor de 2 puntos y el máximo puntaje que se puede obtener con ellos es de 10, asignando una tirada de 5 **Rojos** o **Ases(comodines) al espacio del Rojo.**
 - El **Negro** tiene un valor de 1 punto y el máximo puntaje que se puede obtener con ellos es de 5, asignando una tirada de 5 **Negros** o **Ases(comodines) al espacio de los Negros.**
 
-## Desempate:
+## Uso de Cubiletes y Dados
 
-- En caso de haber empate en puntos, se jugará una ronda extra de tipo **Muerte Súbita**, donde el ganador define el resultado de la partida.
-- Si los niveles de jugadores son diferentes, los Niveles **RUBI y DIAMANTE** ganan de manera automática a cualquier nivel inferior.
-- En caso de enfrentamiento entre **RUBI Y DIAMANTE**, se desempata con **Muerte Súbita.** Igual sucede con **RUBI vs RUBI** o **DIAMANTE vs DIAMANTE**.
+Al inicio de cada partida el usuario debe escoger que Cubilete va a utilizar para la primera ronda. A partir de ese momento los Cubiletes de rotan con cada ronda en la que se puntúe de manera secuencial.
+
+Dependiendo del Cubilete en uso, son los pack de dados que saldrán a la mesa con cada tirada. Si el Pack de Dados y el Cubilete coinciden en calidad, el jugador gana +1 “puntos de desempate”. 
+
+### Reglas de Desempate:
+
+Regla # 1: En caso de empate, se tendrán en cuenta los “puntos de desempate” acumulados durante la partida.
+
+Regla # 2: Si el empate persiste, se juega una ronda adicional (Muerte Súbita)
+
+Regla # 3: Si entre los jugadores empatados hay una cuenta de calidad Ruby o Diamante, este gana de manera automática la partida sin necesidad de evaluar la Regla # 1.
+
+Regla # 4: Si ambos jugadores empatados poseen cuentas calidad  Ruby o Diamante, se procede a evaluar la Regla # 1.
+
