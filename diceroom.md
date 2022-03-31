@@ -1,20 +1,41 @@
-# Dice-Room en Casinos❌ ✅
+Dice Poker Club posee una zona especial de 6 áreas, que representan las caras de un dado. **Cada  una de estas caras están repletas de casinos divididos en Dicerooms. Estos casinos están distribuidos de manera uniforme, por lo que cada cara posee la misma cantidad de Casinos y por tanto de Dicerooms.**
 
+## Características de los Dicerooms
 
-Los **Dice-Room** son **NFTs** especiales, localizados dentro de los casinos alrededor de Diceland.
+Los Dicerooms dentro de los casinos pueden ser de 6 tipos diferentes: Diceroom Pequeño, Diceroom Salón, Diceroom Intermedio, Gran Diceroom, Diceroom de Torneos y Diceroom VIP, estos últimos pertenecientes a la Federación (Propios del juego)
 
-Un casino contiene de 10-100 DiceRoom dependiendo de su rareza. Todas las competencias  tienen lugar en Tableros de los DiceRooms.
+La diferencia entre cada tipo es básicamente su tamaño y por tanto la capacidad de acoger jugadores en su interior. Los casinos son especializados y solo poseen un tipo de Diceroom. En las siguiente tabla mostramos la capacidad de cada Diceroom según su tipo:
 
-por lo que el jugador puede poseer un %  del casino completo.
+| Tipo | Capacidad de Jugadores |
+| --- | --- |
+| D. Pequeño | 10 |
+| D. Salón | 25 |
+| D. Intermedio | 50 |
+| Gran D. | 100 |
+| D. dee Torneo | 200 |
+| D. VIP | 1000 |
 
-El mayorista de un casino (persona o clan que tenga el mayor % en salas dentro de un casino) te garantiza el derecho a administrar casinos si eres dueño del 51% . Por lo tanto, los  encargados de casinos se llaman Administrador. Los Administradores eligen cómo y cuándo organizar competencias en su casino. Las competencias pueden hacerse públicas, cumplir ciertos requisitos (por ejemplo, tener un cierto récord de victorias), o por invitación (para usuarios o clanes específicos). Los Administradores controlan la cuota de inscripción a la competencia y el premio acumulado del ganador.
+## Funcionamiento:
 
-Todos los casinos tienen los mismos parámetros, lo que significa que los Administradores pueden anunciar sus casinos a otros jugadores o clanes. Se puede hacer dentro o fuera del juego (por ejemplo, Telegram, Discord o cualquier plataforma). 
+Los Diceroom son una parte muy importante del juego. Todas las partidas tipo PvP independientemente del evento o modalidad se juegan dentro de un Diceroom.
 
-Habrá un sistema de niveles para los casinos. Los niveles dependerán de las competiciones que se celebren, actividad general, etc.
+Los Dicerooms pueden ser utilizados por sus propietarios para organizar eventos propios. También es posible ofrecer configuraciones de partidas PvP diferentes a las estándares. Esta característica es solo 1 dentro de todas las opciones de personalización a las que podrás acceder.
 
-El casino puede perder un nivel si está inactivo. Los niveles desbloquearán diferentes tipos de superficies y agregarán una cantidad de competidores permitidos. Eso permite a los usuarios generar diferentes tipos de eventos con más competidores. Las ganancias del casino se pagan a los usuarios de acuerdo con su participación de propiedad (tokens). 1 token significa - 1%
+*Una compres un Diceroom, estos solo tendrán la inmobiliaria necesaria para jugar partidas PvP estándares (rápidas) que se celebran de pie. Para poder desbloquear más funcionalidades deberás mejorarlos añadiendo accesorios como pueden ser sillas. 
 
-Dice Póker controla la cantidad de casinos creados y activos en todo momento.
+Como ejemplo, las sillas son necesarias para poder celebrar eventos más largos, pues al tener que esperar, los jugadores solo podrán permanecer dentro del Diceroom sentados.
 
+Por supuesto también podrás mejorar su aspecto visual, para que luzca con el paso del tiempo como un verdadero salón de juegos. Más adelante en el proyecto, daremos información acerca de otras funcionalidades específicas que los usuarios podrán aprovechar.
+
+## **Managers:**
+
+**Los dueños de una cantidad de Dicerooms igual a más del 50% de un casino pueden optar por convertirse en Managers. Esta “responsabilidad” o Título solo puede ser otorgado por la federación.**
+
+Los administradores tienen la responsabilidad de mantener activo el casino y de que el mismo gane visibilidad en el juego y fuera de él. Con esta condición surge la opción de formar Clubes Privados, bajo los  cuales se organizaran en comunidad los jugadores.
+
+**Tanto obtener varios Dicerooms, como llegar a convertirse en Administrado(Manager) de un Casino abre un abanico nuevo de oportunidades y recompensas para los jugadores.**
+
+Por solo poseer un Diceroom, ya obtienes ganancias por cada partida que se juegue en el mismo. Además, si añadimos la posibilidad de organizar eventos propios que atraigan jugadores ¡Imagina las posibilidades! También es válido mencionar que la Federación pagará bonos a los mejores Managers.
+
+Con los Diceroom también añadiremos características y funcionalidades que quizás no hayas visto nunca en un juego Play to Earn.
 

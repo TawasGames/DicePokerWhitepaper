@@ -1,24 +1,27 @@
-Existirán Accesorios NFTs y otros que no lo son que pasaremos a explicar más adelante.
-  Los accesorios  NFTs darán diferentes funcionalidades a nuestros Equipos. Cada uno tiene un uso único y no podrá reutilizarse en otra mano.
+Los accesorios serán un complemento en el juego que persigue el objetivo de hacerlo más dinámico. Se implementarán 2 tipos de accesorios divididos en **NFT y no NFT**. Como NFTs, este tipo de accesorios serán únicos. A su vez, los no NFT serán de multiples obtenciones y para aumentar su relevancia tendrán repercusión directa en el juego.
 
-# NFTs
+## Obtención de accesorios
 
-- **Skin para Cubiletes - 3 rarezas** . Sticker, Gift, forma(cambia de forma).
-- **Skin para Dados - 3 rarezas** . Sticker, Gift, forma(cambia de forma).
-- S**kin para Tableros:** Podrás  cambiar la forma y colores de tus tableros.
-- **Avatar de Cuenta :** Avatares únicos para tu cuenta.
-- **Estatuas para decoración :** Decoración de las salas de juego
-- minijuegos - 3 Rarezas : Tragamonedas, puzzle, arcade
+**Para obtener accesorios solo debes hacer una cosa, jugar a Dice Poker Club**. 
 
-# No NFTs
+Al final de cada nivel del modo PvE encontrarás jefes que debes derrotar y de esta manera ganar un cofre. Dentro de los cofres de Jefes finales habrá, además de la recompensa en tokens, distintos tipos y clases de accesorios.
 
-- **Pase Gratis a La Liga semanal:** Accesorio que te dará acceso gratis a la Liga Semanal, lo puedes obtener en diversas competiciones .
-- **Booster- ? Tipos:** Runas que mejoran las características de los packs o Cubietes por 24 horas.
-- **Plan de Marketing para casinos 3-tipo**:  Tablero, Casino , Dice-Póker
+**Los accesorios no serán los mismos para cada jugador, la recompensa será variable.** Pueden coincidir en los de tipo no NFT, como por ejemplo, una activación libre de potenciadores o un pase a eventos o modos de juego.
 
-| Tipo | Costo |
-| --- | --- |
-| Anillo | USD 10 |
-| Pulseras | USD 15 |
-| Pulsera Dorada | USD 20 |
-| Reloj | USD 25 |
+También podrás obtenerlos como premios en Torneos y Ligas
+
+## Algunos accesorios y sus funciones
+
+Ya te adelantamos algo, pero habrá muchos otros. 
+
+### Accesorios de estética: NFT y no NFT
+
+Cada perfil tendrá una imagen identificativa por defecto que se mostrará a tus rivales en partidas acompañando tu Nick de jugador. Esta es un ejemplo de uno de los accesorios tipo NFT que se introducirán en el juego. Los jugadores que los ganen tendrán en su poder imágenes de perfil únicas para presumir. **¿Pueden venderla? Al tratarse de un NFT, usted es su dueño exclusivo por contrato blockchain y puede hacer con esta imagen lo que desee.**
+
+Con este mismo propósito se repartirán skins para tus **Dados y Cubiletes**. Visualmente trataremos de abarcar todos los elementos del juego para que  puedan ser modificados con accesorios (NFT y no NFT). 
+
+### Accesorios funcionales:
+
+Otros accesorios importantes serán los potenciadores, los cuales tendrás que desbloquear antes de poder utilizarlos por primera vez. También, como ya mencionamos, será posible obtener activaciones gratis de los mismos en forma de accesorios.
+
+**Los accesorios para Dicerooms son quizás de los más destacados que ofreceremos.** No daremos detalles acerca de los mismos, pues queremos sea la mayor sorpresa de Dice Poker Club una vez se implementen.
