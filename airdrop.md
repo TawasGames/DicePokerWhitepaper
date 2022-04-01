@@ -1,7 +1,3 @@
----
-
----
-
 La fidelidad de premia y es un placer anunciarles, queridos “DICERS”, que estaremos efectuando el evento de Airdrop para todos aquellos NFT Holders que confiaron en el proyecto y se han mantenido firmes a nuestro lado.
 
 Por cada equipo formado y a la espera se repartirán $DICE teniendo en cuenta la rareza de los mismos:

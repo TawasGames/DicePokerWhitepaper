@@ -10,10 +10,6 @@ Algo importante, es que **será FCFS (First Come First Served)**. El máximo de 
 
 Los tokens se entregarán con un vesting de 3 meses. 25% al momento de compra, y el 75% restante, a razón del 25% mensual.
 
-Exit with
-
-⌃↩
-
 ## Venta Pública:
 
 Finalizada la venta privada, abriremos la venta Pública. La misma tendrá a la venta 2.280.000 tokens (19% del supply).  Los tokens se entregarán con un vesting de 3 meses. 25% al momento de compra, y el 75% restante, a razón del 25% mensual. (al igual que la venta privada).

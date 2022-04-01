@@ -1,3 +1,5 @@
+# Accesorios
+
 Los accesorios serán un complemento en el juego que persigue el objetivo de hacerlo más dinámico. Se implementarán 2 tipos de accesorios divididos en **NFT y no NFT**. Como NFTs, este tipo de accesorios serán únicos. A su vez, los no NFT serán de multiples obtenciones y para aumentar su relevancia tendrán repercusión directa en el juego.
 
 ## Obtención de accesorios
