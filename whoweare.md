@@ -1,3 +1,5 @@
+# ¿Quiénes Somos?
+
 Nuestro equipo está compuesto por más 10 personas entre “Dicers” a tiempo completo y colaboradores a tiempo parcial. A continuación un resumen de los responsables principales de la creación del juego:
 
 ## Arley Taboada - Manager
