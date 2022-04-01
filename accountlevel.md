@@ -1,3 +1,5 @@
+# Rareza de la Cuenta
+
 Hemos querido dar un incentivo adicional a los jugadores más asiduos de **Poker Dice Club** creando un sistema de recompensas basados en logros. El objetivo a perseguir en este caso será el de obtener la mayor cantidad de puntos posibles para de esta manera optar por aumentar la categoría (rareza) de tu cuenta. 
 
 ## Generalidades:

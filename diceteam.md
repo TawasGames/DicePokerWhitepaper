@@ -1,3 +1,5 @@
+# Equipos
+
 Para jugar a Dice Poker Club deberás poseer un equipo de al menos 1 equipo formado. A continuación te damos toda la información acerca de los mismo.
 
 ## Formación de equipos

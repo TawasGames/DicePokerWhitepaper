@@ -1,4 +1,3 @@
-
 # Cubiletes
 
 El **Cubilete** es uno de los NFTs necesarios para formar un equipo y así competir en Dice Poker Club. **Necesitarás de al menos 1 Cubilete de calidad común (Plástico) para iniciarte.** Estos se obtienen abriendo **Cajas** o comprándolos a otros jugadores en el **Mercado.**

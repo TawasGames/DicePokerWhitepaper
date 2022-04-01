@@ -1,3 +1,5 @@
+# Dicerooms
+
 Dice Poker Club posee una zona especial de 6 áreas, que representan las caras de un dado. **Cada  una de estas caras están repletas de casinos divididos en Dicerooms. Estos casinos están distribuidos de manera uniforme, por lo que cada cara posee la misma cantidad de Casinos y por tanto de Dicerooms.**
 
 ## Características de los Dicerooms

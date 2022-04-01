@@ -1,3 +1,5 @@
+# Modo PvE
+
 ¡Juega, Puntúa y Gana! El **Modo Aventuras** o **CAMINO DEL DICER** es el escenario perfecto para que comiences a generar ganancias en **Dice Poker Club** a la vez que mejoras tu juego y estrategias. La experiencia adquirida te será muy útil a la hora de enfrentar retos mayores, como puede ser competir contra otro jugador.
 
 ## **Tu primeros pasos**

@@ -1,4 +1,4 @@
-# Gameplay
+# Jugabilidad
 
 El **Dice Poker** es un juego de dados bastante sencillo, dado que se basa en el popular juego de cartas “POKER”. Su curva de aprendizaje es incluso menor, pues las combinaciones que mejor puntúan son solo 6 y solo pueden conseguirse con figuras del mismo tipo y ases 🔴. A continuación las reglas del juego.
 

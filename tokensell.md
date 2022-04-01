@@ -1,3 +1,5 @@
+# Venta del Token
+
 ## Venta Privada:
 
 En la venta privada del Token estará el **8% del total del Supply** (960.000 tokens). El precio de venta será de **0,08 dólares**

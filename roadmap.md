@@ -1,6 +1,8 @@
+# Roadmap
+
 ## Q3 2021:
 
-- We decided to Blockchainize Dice Poker Game
+- Decidimos crear Dice Poker Club
 - Se realizan propuestas y se investiga todo lo que implica llevar a cabo el proyecto.
 - Planeación parcial del Road Map a seguir.
 - Creación de condiciones y gathering de los recursos necesarios.

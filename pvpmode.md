@@ -1,3 +1,5 @@
+# Modo PvP
+
 Bienvenido al Modo PvP de Dice Poker Club. En esta modalidad, como su nombre lo indica te enfrentarás a otros jugadores en emocionantes partidas de distintos tipos. De inicio no se lanzarán todas las características PvP, sino que se harán actualizaciones periódicas. 
 
 ## Generalidades del Modo PvP:
