@@ -11,7 +11,7 @@ Los atributos son **Poker Skill (PSK), Energía (E), Durabilidad (D)** y **Aumen
 
 **El Poker Skill es variable**. **Cada calidad posee rangos de Poker Skill.** Puedes ver estos rangos en la Tabla de características de más adelante.
 
-El **Poker Skill** limitará hasta que nivel puedes avanzar en el **Modo Aventuras**. Esto no significa que puedas saltar directamente al último nivel permitido, antes deberás completar cada nivel comenzando por el primero.
+El **Poker Skill** limitará hasta que nivel puedes avanzar en el **Modo PVE**. Esto no significa que puedas saltar directamente al último nivel permitido, antes deberás completar cada nivel comenzando por el primero.
 
 ### **Energía:**
 
@@ -19,7 +19,7 @@ El **Poker Skill** limitará hasta que nivel puedes avanzar en el **Modo Aventur
 
 **La Energía es fija. Cada calidad posee una cantidad de Energía específica.** Puedes ver los detalles en la Tabla de características de más adelante.
 
-La **Energía** limitará la cantidad de partidas que puedes jugar en un día tanto en **Modo Aventuras(PVE)** como en **Multijugador (PvP)**. A su vez la **Energía** que posee tu **Pack de Dados** puede verse limitada por el **Cubilete(s)** con que formes equipo. Más detalles en **Cubiletes**
+La **Energía** limitará la cantidad de partidas que puedes jugar en un día tanto en **Modo PVE** como en **Modo PvP**. A su vez la **Energía** que posee tu **Pack de Dados** puede verse limitada por el **Cubilete(s)** con que formes equipo. Más detalles en **Cubiletes**
 
 ### **Durabilidad:**
 
@@ -46,13 +46,3 @@ Al abrir una caja el chance de obtener las rarezas es el siguiente, así mismo l
 | Zafiro    | 15%          | 101-150  | 6       | 6           | 0-3        |
 | Esmeralda | 35%          | 51-100   | 4       | 4           | 0-3        |
 | Plástico  | 44%          | 5-50     | 2       | 2           | 0-3        |
-
-Los Boost te permitirán mejorar los atributos de tus packs y podrás aplicar tantos como Slots tengan tus packs. Ver más en la sección Boost.
-
-- **Común/Common:**  **Plástico**
-- **Poco Comun/UnCommon:  Esmeralda**
-- **Raro/Rare:**  **Zafiro**
-- **Legendaria/Legendary:**  **Rubi**
-- **Mitica/Mythical:**  **Diamante**
-    
-    **Los Dados** podrán destruirse *(quemarles)* lo que retornará el 20% del costo de su creación en **$DICE**.

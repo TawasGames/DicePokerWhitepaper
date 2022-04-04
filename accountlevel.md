@@ -1,7 +1,6 @@
 # Rareza de la Cuenta
 
-Hemos querido dar un incentivo adicional a los jugadores más asiduos de **Poker Dice Club** creando un sistema de recompensas basados en logros. El objetivo a perseguir en este caso será el de obtener la mayor cantidad de puntos posibles para de esta manera optar por aumentar la categoría (rareza) de tu cuenta. 
-
+Hemos querido dar un incentivo adicional a los jugadores más asiduos de **Dice Poker Club** creando un sistema de recompensas basados en logros. El objetivo a perseguir en este caso será el de obtener la mayor cantidad de puntos posibles para de esta manera optar por aumentar la categoría (rareza) de tu cuenta. 
 ## Generalidades:
 
 Aumentar la categoría de tu cuenta traerá consigo varias ventajas. Inicialmente hemos pensado en recompensas básicas, pero planeamos añadir otras nuevas en el futuro. Las que podrás disfrutar desde el día 1 son las siguientes:
@@ -11,7 +10,6 @@ Aumentar la categoría de tu cuenta traerá consigo varias ventajas. Inicialment
 - Desbloqueo u obtención de NFTs.
 
 Por supuesto, estas ventajas estarán balanceadas para que no afecten negativamente al ecosistema del juego. Además también serán reguladas por el Oráculo y los administradores.
-
 ## Rarezas y sistema de logros:
 
 Para desbloquear logros y de esta manera acumular puntos solo tendrán que jugar a **Dice Poker Club. Se han creado logros para abarcar todas las facetas del juego, para que un mayor número de usuarios puedan acceder a ellos.**

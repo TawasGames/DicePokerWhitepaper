@@ -2,7 +2,7 @@
 
 El **Cubilete** es uno de los NFTs necesarios para formar un equipo y así competir en Dice Poker Club. **Necesitarás de al menos 1 Cubilete de calidad común (Plástico) para iniciarte.** Estos se obtienen abriendo **Cajas** o comprándolos a otros jugadores en el **Mercado.**
 
-**Los Cubiltes contarán con 4 atributos principales los cuales tendrán su rol dentro del juego**
+**Los Cubiltes tienen 4 atributos principales los cuales tendrán su rol dentro del juego**
 Los atributos son **Capacidad de Packs (PC), Capacidad de Energía (E), Durabilidad (D), y Ranuras de Poder(PS)**. A continuación explicaremos de manera general su función en el juego:
 
 ### **Capacidad de Packs:**
@@ -24,9 +24,9 @@ La **Capacidad de Energía** indica la cantidad de **Energía** máxima que pued
 ### **Magnetismo:**
 **Esta stat es propia de cada Cubilete y nunca es cero**
 
-**El Magnetismo es variable**. **Todos los Cubiletes tendrán un Magnentismo entre 1 y 5.** Puedes ver estos datos en la Tabla de características de más adelante.
+**El Magnetismo es variable. Cada calidad posee rangos de Magnetismo** Puedes ver estos datos en la Tabla de características de más adelante.
 
-El **Magnetismo** indica a que calidad de Pack de Dados tiene más posibilidades de atraer un **Cubilete** durante una partida. Un **Cubilete** con un **Magnetismo** tipo 3 (Zafiro) no atraerá siempre Packs de caldiad Zafiro, pero si tendrá un % alto de probabilidades. 
+El **Magnetismo** indica a que calidad de Pack de Dados tiene más posibilidades de atraer un **Cubilete** durante una partida. Un **Cubilete** con un **Magnetismo** tipo 3 (Zafiro) no atraerá siempre Packs de calidad Zafiro, pero si tendrá un % alto de probabilidades.
 ### Ranuras de Poder:
 
 **Esta es una STAT ESPECIAL de cada Cubilete** 

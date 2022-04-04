@@ -3,17 +3,15 @@
 ¿Ya formaste tu equipo? Entonces ¡es hora de jugar!, pero antes, **hazte con tu Licencia de Juego**. 
 # Generalidades
 
-Las Licencias de Juego son una condición necesaria para jugar. Una vez formado un equipo es OBLIGATORIO que el mismo se encuentre bajo licencia activa antes de poder acceder al Modo Aventuras, enfrentarte en Duelo a otro jugador o participar en un Torneo/Liga.
-
+Las Licencias de Juego son una condición necesaria para jugar. Una vez formado un equipo es OBLIGATORIO que el mismo se encuentre bajo licencia activa antes de poder acceder a cualquier modo de juego.
 ## Duración y costo de las Licencias
 
 La duración de las **Licencias de Juego** será variable y el jugador es libre de elegir cual es la que quiere activar para cada equipo.
 
 - **La Licencia Diaria** te permite hacer cambios en tu equipo con esta frecuencia. El costo será superior al resto pero te permitirá mantener tu equipo actualizado en todo momento. Recomendable para jugadores con buen rendimiento.
-- **La Licencia Semanal** te permite extender a 7 días la validés de la misma, para que puedas realizar cambios en tus equipos con esta frecuencia. El costo es más bajo que la diaria y te permite juntar recursos para realizar mejores actualizaciones.
+- **La Licencia Semanal** te permite extender a 7 días la validez de la misma, para que puedas realizar cambios en tus equipos con esta frecuencia. El costo es más bajo que la diaria y te permite juntar recursos para realizar mejores actualizaciones.
 - **La Licencia Quincenal** extiende la posibilidad de mantener tu equipo en juego hasta los 15 días. Su costo es menor que la semanal. Es perfecta para jugadores que comienzan con poca inversión al permitirte ahorrar y acumular recursos para realizar mejoras más relevantes en tu equipo.
 - **La Licencia Mensual** extiende a 30 días la participación de tu equipo en el juego. Es la licencia que menor costo por día tendrá en el juego y puede convertirse en la más rentable si tu equipo ya no necesita mejoras o necesitas reunir muchos recursos para actualizarlo.
-
 
 💡 Es necesario activar una licencia por cada equipo que posea el jugador, pero sus frecuencias y costos son independientes, permitiéndote así poder planificar distintas estrategias para cada uno de tus equipos.
 

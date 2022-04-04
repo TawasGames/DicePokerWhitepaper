@@ -1,10 +1,10 @@
 # Equipos
 
-Para jugar a Dice Poker Club deberás poseer un equipo de al menos 1 equipo formado. A continuación te damos toda la información acerca de los mismo.
+Para jugar a **Dice Poker Club** deberás poseer al menos 1 equipo activo. A continuación te damos toda la información acerca de los mismos.
 
 ## Formación de equipos
 
-Los equipos se crean de la combinación de Packs de Dados y Cubiletes. **Todos tus Dados y Cubiletes son elegibles para formar un Equipo**
+Los equipos se crean de la combinación de Packs de Dados y Cubiletes. **Todos tus Packs y Cubiletes son elegibles para formar un Equipo**
 
 Los equipos se forman tomando como base un cubilete y se añaden packs en dependencia de la estadística Capacidad de Packs. Por cada Cubilete que añadas, aumentarás la cantidad de packs que puedes asociar.
 
@@ -18,7 +18,7 @@ Para activar un equipo ya formado, solo es necesario pagar una licencia de cualq
 
 ### Funcionamiento:
 
-Los equipos pueden catalogarse de manera resumida, como un conjunto de NFTs(dados y cubiletes) bajo licencia.
+Los equipos pueden catalogarse de manera resumida, como un conjunto de NFTs(Pack de Dados y Cubiletes) bajo licencia.
 
 Podrás jugar tantas partidas como Energía sumen todos los Equipos que mantengas activos. A medida que los uses, su Energía se agotará y tendrás que cambiar al siguiente.
 
