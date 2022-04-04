@@ -22,9 +22,11 @@ La **Capacidad de Packs** indica la cantidad de **Packs de Dados** que puedes as
 La **Capacidad de Energía** indica la cantidad de **Energía** máxima que puede asimilar un **Cubilete** procedente de tus **Packs de Dados** al formar un **Equipo**. Los equipos nuncan poseerán **Energía** por encima de la suma de tus **Cubiletes**
 
 ### **Magnetismo:**
-    
+**Esta stat es propia de cada Cubilete y nunca es cero**
 
+**El Magnetismo es variable**. **Todos los Cubiletes tendrán un Magnentismo entre 1 y 5.** Puedes ver estos datos en la Tabla de características de más adelante.
 
+El **Magnetismo** indica a que calidad de Pack de Dados tiene más posibilidades de atraer un **Cubilete** durante una partida. Un **Cubilete** con un **Magnetismo** tipo 3 (Zafiro) no atraerá siempre Packs de caldiad Zafiro, pero si tendrá un % alto de probabilidades. 
 ### Ranuras de Poder:
 
 **Esta es una STAT ESPECIAL de cada Cubilete** 
@@ -35,10 +37,10 @@ Las **Ranuras de Poder** es la capacidad máxima de mejoras que puedes realizar 
 
 Las estadísticas de estos **Cubiletes** serán las siguientes:
 
-| Rareza    | Chance- Drop | Packs | cont/Ener | Durabilidad | Ranuras |
-| ---       | ---          | ---   | ---       | ---        | ---      |
-| Diamante  | 1%           | 5     | 50        | 10         | 0 - 3    |
-| Rubí      | 2%           | 4     | 40        | 8          | 0 - 3    |
-| Zafiro    | 15%          | 3     | 30        | 6          | 0 - 3    |
-| Esmeralda | 35%          | 2     | 20        | 4          | 0 - 3    |
-| Plástico  | 44%          | 1     | 10        | 2          | 0 - 3    |
+| Rareza    |  Cap. Packs | Cap. Energía | Magnetismo | Ranuras  |
+| ---       |  ---        | ---          | ---        | ---      |
+| Diamante  |  5          | 50           | 1 - 5      | 0 - 3    |
+| Rubí      |  4          | 40           | 1 - 5      | 0 - 3    |
+| Zafiro    |  3          | 30           | 1 - 5      | 0 - 3    |
+| Esmeralda |  2          | 20           | 1 - 5      | 0 - 3    |
+| Plástico  |  1          | 10           | 1 - 5      | 0 - 3    |          
