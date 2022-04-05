@@ -38,7 +38,7 @@ El hombre de letras. Encargado de escribir cuento se necesite para el proyecto, 
 - Soñando con ser CopyWriter Experto
 - Fans del FC Barcelona
 
-## Jorge Torres ***- Trader Boss***
+## Jorge Torres ***- Experto en Criptomonedas***
 
 El plus que cualquier proyecto BlockChain necesita para desarrollarse exitosamente. Conocedor del Mundo Cripto con más de 5 años de experiencia. Formador profesional de nuevos emprendedores.
 
