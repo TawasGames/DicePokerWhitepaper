@@ -4,17 +4,17 @@ El **Dice Poker** es un juego de dados bastante sencillo, dado que se basa en el
 
 ## **Reglas generales:**
 
-- El objetivo del juego es sacar la mayor puntuación posible en cada ronda y ganará quien más puntos acumule al finalizar las 3 rondas.
-- Se juega con 5 dados los cuales irás tirando a lo largo de diferentes turnos.
-- Para puntuar se debe acumular la mayor cantidad de dados con el mismo símbolo. El valor de cada combinación es variable.
+- El objetivo del juego es sacar la mayor puntuación posible en cada ronda y ganará quien más puntos acumule al final.
+- En el modo estándar son 6 rondas, una por cada cara del dado.
+- Se juega con 5 dados que se lanzan un máximo de 3 veces por turno.
+- Para obtener una puntuación alta se debe acumular la mayor cantidad de dados con el mismo símbolo.
+- Las 🔴 son consideradas comodines y pueden añadirse a cualquier otro conjunto y suman como tal.
 - En cada turno se lanzan los dados un máximo de 3 veces.
 - Puedes decidir reservar cualquier cantidad de dados (video demostrativo)
 - Se reservan dados hasta que se realicen las 3 tiradas reglamentarias.
 - Los dados reservados no se lanzan en las siguientes tiradas a menos que completes un conjunto de 5 y aún te queden tiradas. Volver a lanzar tu conjunto de 5, se llama doblar.
 - Doblar es un movimiento especial que te permite volver a lanzar los dados reservados luego de haber alcanzado los 5 dados de un tipo. Si al menos 1 de los dados cae en tu opción se suma, si no ocurre así se pierde la tirada completa.
-- Las 🔴 son consideradas comodines y pueden añadirse a cualquier otro conjunto y suman como tal.
-- También pueden hacerse grupos de As y se le aplican las mismas reglas que al resto de conjuntos.
-- En cada turno se puntúa una cara, y la que escojas definirá tu puntuación en la ronda. Escoge sabiamente y confía en tu habilidad. Una cara que ya has puntuado no podrás volver a repetirla
+- En cada turno se puntúa una cara, y la que escojas definirá tu puntuación en la ronda. Escoge sabiamente y confía en tu habilidad. Una cara que ya has puntuado no podrás volver a repetirla.
 
 ## Valores de las caras y puntuaciones por ronda**:**
 
@@ -32,8 +32,8 @@ Una vez haz rellenado el espacio correspondiente a una cara (puntuado) no podrá
 - La **K** tiene un valor de 5 puntos y el máximo puntaje que se puede obtener con ellas es de 25, asignando una tirada de 5 **Ks** o **Ases(comodines) al espacio de la K.**
 - La **Q** tiene un valor de 4 puntos y el máximo puntaje que se puede obtener con ellas es de 20, asignando una tirada de 5 **Qs** o **Ases(comodines) al espacio de la Q.**
 - La **J** tiene un valor de 3 puntos y el máximo puntaje que se puede obtener con ellas es de 15, asignando una tirada de 5 **Js** o **Ases(comodines) al espacio de la Jota.**
-- El **Rojo** tiene un valor de 2 puntos y el máximo puntaje que se puede obtener con ellos es de 10, asignando una tirada de 5 **Rojos** o **Ases(comodines) al espacio del Rojo.**
-- El **Negro** tiene un valor de 1 punto y el máximo puntaje que se puede obtener con ellos es de 5, asignando una tirada de 5 **Negros** o **Ases(comodines) al espacio de los Negros.**
+- El **10** tiene un valor de 2 puntos y el máximo puntaje que se puede obtener con ellos es de 10, asignando una tirada de 5 **10** o **Ases(comodines) al espacio del 10.**
+- El **9** tiene un valor de 1 punto y el máximo puntaje que se puede obtener con ellos es de 5, asignando una tirada de 5 **9** o **Ases(comodines) al espacio de los 9.**
 
 ## Uso de Cubiletes y Dados
 

@@ -9,7 +9,7 @@ Si futuros Dicers, habrá Whitelist en nuestro proyecto y será épico ¿Quienes
 - Compra de los primeros NFTs a un mejor precio.
 - Acceso anticipado de información para los creadores de contenido.
 - Canal Exclusivo de Consultas.
-- Posibilidad de entrada Libre al Primer Gran Torneo de Dice Poker Club
+- Posibilidad de entrada Libre al Primer Gran Torneo de **Dice Poker Club**
 
 En la medida de lo posible prepararemos muchas más sorpresas, tanto para los usuarios de la Whitelist como para los que queden fuera, siempre trabajando por construir una buena relación con la comunidad. 
 
@@ -35,7 +35,7 @@ Sentadas las bases empieza lo mejor ¡Ganarte la entrada a la Whitelist! Pero no
 
 ### Compromiso con la comunidad (3000)
 
-Queremos usuarios activos, que se hable de nuestro proyecto. Aceptamos elogios y críticas pues ambos nos hacen trabajar con más ganas. Y por supuesto este será el primer grupo de usuario que vamos a premiar por su fidelidad. Efectúa estas actividades y entrarás en la Whitelist.
+Queremos usuarios activos, que se hable de nuestro proyecto. Aceptamos elogios y críticas pues ambos nos hacen trabajar con más ganas.Este será el primer grupo de usuarios que vamos a premiar por su fidelidad. Efectúa estas actividades y entrarás en la Whitelist.
 
 - Interactuar con frecuencia en los chats y grupos del juego.
 - Dar la bienvenida a los nuevos usuarios y asistirles en las dudas que puedan tener.
@@ -43,7 +43,7 @@ Queremos usuarios activos, que se hable de nuestro proyecto. Aceptamos elogios y
 
 ### Memes y artes:
 
-Los creativos siempre tendrán un lugar en el mundo de los NFTs y en la comunidad de Dice Poker Club de seguro no será diferente. También premiaremos a aquellos que nos dediquen sus mejores trazos y pinceladas. 
+Los creativos siempre tendrán un lugar en el mundo de los NFTs y en la comunidad de Dice Poker Club no será diferente. También premiaremos a aquellos que nos dediquen sus mejores trazos y pinceladas. 
 
 - Creación de Fan Art y diseños de arte NFTs (skins y características)
 - Memes, historietas (comic) y tiras cómicas.
@@ -51,7 +51,7 @@ Los creativos siempre tendrán un lugar en el mundo de los NFTs y en la comunida
 
 ### Creador de contenido:
 
-Por supuesto los creadores de contenido también tendrán un lugar entre nuestros usuarios más  afortunados. Se tendrán en cuenta todo tipo de contenidos:
+Por supuesto los creadores de contenido también tendrán un lugar entre nuestros usuarios más afortunados. Se tendrán en cuenta todo tipo de contenidos:
 
 - Videos en tu canal de YouTube
 - Videos divertidos de Tik tok

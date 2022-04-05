@@ -1,12 +1,12 @@
 # Modo PvP
 
-Bienvenido al Modo PvP de Dice Poker Club. En esta modalidad, como su nombre lo indica te enfrentarás a otros jugadores en emocionantes partidas de distintos tipos. De inicio no se lanzarán todas las características PvP, sino que se harán actualizaciones periódicas. 
+Bienvenido al **Modo PvP de Dice Poker Club**. En esta modalidad, como su nombre lo indica te enfrentarás a otros jugadores en emocionantes partidas de distintos tipos. De inicio no se lanzarán todas las características PvP, sino que se harán actualizaciones periódicas. 
 
 ## Generalidades del Modo PvP:
 
 Las reglas del juego en partidas estándar son las mismas que en PvE. Todas tus partidas se juegan en Dicerooms, incluso si aún no posees uno. El sistema te emparejará con un rival de manera aleatoria si así lo deseas. En caso de que quieras retar a un jugador específico, también podrás hacerlo.
 
-En las partidas PvP las recompensas las aportan los jugadores que se enfrentan. Antes de comenzar una partida los jugadores deben escoger la cantidad que desean apostar, Por defecto tienen 3 opciones para escoger, pero será posible pactar una cantidad de tokens específica.
+En las partidas PvP las recompensas las aportan los jugadores que se enfrentan. Antes de comenzar una partida los jugadores deben escoger la cantidad que desean apostar. Por defecto tienen 3 opciones para escoger, pero será posible pactar una cantidad de tokens específica.
 
 ## Actualizaciones Futuras:
 
