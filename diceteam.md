@@ -4,9 +4,9 @@ Para jugar a **Dice Poker Club** deberás poseer al menos 1 equipo activo. A con
 
 ## Formación de equipos
 
-Los equipos se crean de la combinación de Packs de Dados y Cubiletes. **Todos tus Packs y Cubiletes son elegibles para formar un Equipo**
+Los equipos se crean de la combinación de Paquetes de Dados y Cubiletes. **Todos tus Paquetes y Cubiletes son elegibles para formar un Equipo**
 
-Los equipos se forman tomando como base un cubilete y se añaden packs en dependencia de la estadística Capacidad de Packs. Por cada Cubilete que añadas, aumentarás la cantidad de packs que puedes asociar.
+Los equipos se forman tomando como base un cubilete y se añaden Paquetes en dependencia de la estadística Capacidad de Paquetes. Por cada Cubilete que añadas, aumentarás la cantidad de Paquetes que puedes asociar.
 
 **Solo podrán ser añadidos un máximo de 5 Cubiletes por Equipo y cada pack de dados se asocian a un Cubilete específico.**
 
@@ -24,4 +24,4 @@ Podrás jugar tantas partidas como Energía sumen todos los Equipos que mantenga
 
 Podrás jugar tan lejos en el Modo PvE como Poker Skill sumen todos tus equipos activos. El Poker Skill no se consume, pero en su lugar la Durabilidad si. 
 
-Si la durabilidad de algún pack de tus equipos llega a cero, los stats quedan inutilizadas, pero podrás seguir jugando, tantas veces y tan lejos como te lo permitan los restantes packs. Ten esto en cuenta y repara tus packs más desgastados, cada vez que tengas la oportunidad.
+Si la durabilidad de algún pack de tus equipos llega a cero, los stats quedan inutilizadas, pero podrás seguir jugando, tantas veces y tan lejos como te lo permitan los restantes Paquetes. Ten esto en cuenta y repara tus Paquetes más desgastados, cada vez que tengas la oportunidad.

@@ -3,15 +3,15 @@
 El **Cubilete** es uno de los NFTs necesarios para formar un equipo y así competir en Dice Poker Club. **Necesitarás de al menos 1 Cubilete de calidad común (Plástico) para iniciarte.** Estos se obtienen abriendo **Cajas** o comprándolos a otros jugadores en el **Mercado.**
 
 **Los Cubiltes tienen 4 atributos principales los cuales tendrán su rol dentro del juego**
-Los atributos son **Capacidad de Packs (PC), Capacidad de Energía (E), Durabilidad (D), y Ranuras de Poder(PS)**. A continuación explicaremos de manera general su función en el juego:
+Los atributos son **Capacidad de Paquetes (PC), Capacidad de Energía (E), Durabilidad (D), y Ranuras de Poder(PS)**. A continuación explicaremos de manera general su función en el juego:
 
-### **Capacidad de Packs:**
+### **Capacidad de Paquetes:**
 
 **Esta stat es propia de cada Cubilete y nunca es cero**
 
-**La Capacidad de Packs es fija**. **Cada calidad de Cubilete posee una Capacidad de Packs específica.** Puedes ver estos datos en la Tabla de características de más adelante.
+**La Capacidad de Paquetes es fija**. **Cada calidad de Cubilete posee una Capacidad de Paquetes específica.** Puedes ver estos datos en la Tabla de características de más adelante.
 
-La **Capacidad de Packs** indica la cantidad de **Packs de Dados** que puedes asociar a un **Cubilete** al formar un **Equipo**.
+La **Capacidad de Paquetes** indica la cantidad de **Paquetes de Dados** que puedes asociar a un **Cubilete** al formar un **Equipo**.
 
 ### **Capacidad de Energía:**
 
@@ -19,14 +19,14 @@ La **Capacidad de Packs** indica la cantidad de **Packs de Dados** que puedes as
 
 **La Capacidad de Energía es fija**. **Cada calidad de Cubilete posee una Capacidad de Energía específica.** Puedes ver estos datos en la Tabla de características de más adelante.
 
-La **Capacidad de Energía** indica la cantidad de **Energía** máxima que puede asimilar un **Cubilete** procedente de tus **Packs de Dados** al formar un **Equipo**. Los equipos nuncan poseerán **Energía** por encima de la suma de tus **Cubiletes**
+La **Capacidad de Energía** indica la cantidad de **Energía** máxima que puede asimilar un **Cubilete** procedente de tus **Paquetes de Dados** al formar un **Equipo**. Los equipos nuncan poseerán **Energía** por encima de la suma de tus **Cubiletes**
 
 ### **Magnetismo:**
 **Esta stat es propia de cada Cubilete y nunca es cero**
 
 **El Magnetismo es variable. Cada calidad posee rangos de Magnetismo** Puedes ver estos datos en la Tabla de características de más adelante.
 
-El **Magnetismo** indica a que calidad de Pack de Dados tiene más posibilidades de atraer un **Cubilete** durante una partida. Un **Cubilete** con un **Magnetismo** tipo 3 (Zafiro) no atraerá siempre Packs de calidad Zafiro, pero si tendrá un % alto de probabilidades.
+El **Magnetismo** indica a que calidad de Pack de Dados tiene más posibilidades de atraer un **Cubilete** durante una partida. Un **Cubilete** con un **Magnetismo** tipo 3 (Zafiro) no atraerá siempre Paquetes de calidad Zafiro, pero si tendrá un % alto de probabilidades.
 ### Ranuras de Poder:
 
 **Esta es una STAT ESPECIAL de cada Cubilete** 
@@ -37,7 +37,7 @@ Las **Ranuras de Poder** es la capacidad máxima de mejoras que puedes realizar 
 
 Las estadísticas de estos **Cubiletes** serán las siguientes:
 
-| Rareza    |  Cap. Packs | Cap. Energía | Magnetismo | Ranuras  |
+| Rareza    |  Cap. Paquetes | Cap. Energía | Magnetismo | Ranuras  |
 | ---       |  ---        | ---          | ---        | ---      |
 | Diamante  |  5          | 50           | 1 - 5      | 0 - 3    |
 | Rubí      |  4          | 40           | 1 - 5      | 0 - 3    |

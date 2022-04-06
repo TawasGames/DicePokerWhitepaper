@@ -16,7 +16,7 @@ Las recompensas aumentarán con cada nivel y serán controladas por la Federaci�
 
 ## Poker skill y Energía en el modo PVE
 
-Los participantes podrán jugar este modo **tantas veces como energías logren acumular y hasta donde su Póker Skill** les deje avanzar. Puedes consultar **Packs de Dados y Cubiletes** para conocer más a fondo las particularidades de estas 2 stats.
+Los participantes podrán jugar este modo **tantas veces como energías logren acumular y hasta donde su Póker Skill** les deje avanzar. Puedes consultar **Paquetes de Dados y Cubiletes** para conocer más a fondo las particularidades de estas 2 stats.
 
 Entender como modifica la **Energía** tu experiencia en el modo aventura es bastante sencillo, **esta limita la cantidad de veces que puedes jugar en un mismo día al modo PVE.** Independiente al resultado de una partida, ganes o pierdas, la energía es consumida.
 
