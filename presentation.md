@@ -14,8 +14,8 @@ La dinámica del juego es muy sencilla. Para participar, se deberán tener un **
 
 Existirán 3 tipos de Cajas. Las mismas contendrán diferentes tipos de NFT:
 
-**Caja de Dados:** Se pondrán a la venta 3 tipos de cajas:**Bronce, Plata y Oro**. Según el tipo, variarán las posibilidades de obtener cualquiera de las 5 rarezas de **Dados** que existen en el juego.
+**Caja de Dados:** Se pondrán a la venta 3 tipos de cajas: **Bronce, Plata y Oro**. Según el tipo, variarán las posibilidades de obtener cualquiera de las 5 rarezas de **Dados** que existen en el juego.
 
-**Caja de Cubiletes:** Se pondrán a la venta 3 tipos de cajas:**Bronce, Plata y Oro**. Según el tipo, variarán las posibilidades de obtener cualquiera de las 5 rarezas de **Cubiletes** que existen en el juego.
+**Caja de Cubiletes:** Se pondrán a la venta 3 tipos de cajas: **Bronce, Plata y Oro**. Según el tipo, variarán las posibilidades de obtener cualquiera de las 5 rarezas de **Cubiletes** que existen en el juego.
 
 **Caja de Dicerooms:** Esta caja contendrá **Dicerooms** y se distribuirán en 3 clases con precios diferentes: **Bronce, Silver y Gold**. Al abrirla, puedes obtener cualquiera de las 5 rarezas de **Dicerooms** que existen en el juego.
