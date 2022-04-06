@@ -13,7 +13,7 @@ El **Dice Poker** es un juego de dados bastante sencillo, dado que se basa en el
 - Puedes decidir reservar cualquier cantidad de dados (video demostrativo)
 - Se reservan dados hasta que se realicen las 3 tiradas reglamentarias.
 - Los dados reservados no se lanzan en las siguientes tiradas a menos que completes un conjunto de 5 y aún te queden tiradas. Volver a lanzar tu conjunto de 5, se llama doblar.
-- Doblar es un movimiento especial que te permite volver a lanzar los dados reservados luego de haber alcanzado los 5 dados de un tipo. Si al menos 1 de los dados cae en tu opción se suma, si no ocurre así se pierde la tirada completa.
+- Doblar es un movimiento especial que te permite volver a lanzar los dados reservados luego de haber alcanzado los 5 dados de un tipo. Solo se activa si aún te quedan tiradas. Si al menos 1 de los dados cae en la opción completada se suma, sino, se pierde la tirada completa.
 - En cada turno se puntúa una cara, y la que escojas definirá tu puntuación en la ronda. Escoge sabiamente y confía en tu habilidad. Una cara que ya has puntuado no podrás volver a repetirla.
 
 ## Valores de las caras y puntuaciones por ronda:
@@ -37,7 +37,7 @@ Una vez haz rellenado el espacio correspondiente a una cara (puntuado) no podrá
 
 ## Uso de Cubiletes y Dados
 
-Al inicio de cada partida el usuario escoge el Cubilete va a utilizar para jugar. Puedes cambiar estratégicamente el Cubilete al inicio de cada ronda.
+Al inicio de cada partida el usuario escoge entre 3 opciones aleatorias el Cubilete que utilizará para jugar. Puedes cambiar estratégicamente el Cubilete al inicio de cada ronda.
 
 Dependiendo del Cubilete en uso, son los Paquete de dados que saldrán a la mesa con cada tirada. Si el Paquete de Dados y el Cubilete coinciden en calidad, el jugador gana +1 “puntos de desempate”.
 
