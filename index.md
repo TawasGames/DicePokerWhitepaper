@@ -32,11 +32,11 @@
 
 ### **TOKENOMIC**
 
-- #### [👮🏻 IFDP(Oraculo)](/oracle.md)
+- #### [👮🏻 IFDP(Oraculo)](/1oracle.md)
 
-- #### [💰 Información del Token](/infotoken.md)
+- #### [💰 Información del Token](/1infotoken.md)
 
-- #### [📊 Distribución del Token](/distributiontoken.md)
+- #### [📊 Distribución del Token](/1distributiontoken.md)
 
 ### [🗺 Roadmap](/roadmap.md)
 
