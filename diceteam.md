@@ -2,7 +2,7 @@
 
 Para jugar a **Dice Poker Club** deberás poseer al menos 1 equipo activo. A continuación te damos toda la información acerca de los mismos.
 
-## Formación de equipos
+## Formación de equipos:
 
 Los equipos se crean de la combinación de Paquetes de Dados y Cubiletes. **Todos tus Paquetes y Cubiletes son elegibles para formar un Equipo**.
 
@@ -10,7 +10,7 @@ Los equipos se forman tomando como base un cubilete y se añaden Paquetes en dep
 
 **Solo podrán ser añadidos un máximo de 5 Cubiletes por Equipo y cada paquete de dados se asocia a un Cubilete específico.**
 
-### Activación
+### Activación:
 
 Previo a su activación, podrás realizar todas las modificaciones que consideres necesarias hasta estar satisfecho con tus Equipo.
 
