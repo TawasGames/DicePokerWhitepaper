@@ -4,7 +4,7 @@
 
 ### **PRE-VENTAS**
 
-- #### [💰 Venta Token](/ventatoken.md)
+- #### [💰 Venta Token](/tokensell.md)
 
 - #### [📦 Cajas](/box.md)
 
@@ -16,21 +16,17 @@
 
 - #### [🎲 Paquete de Dados](/dicepack.md)
 
-- #### [💎 Equipos](/box.md)
+- #### [💎 Equipos](/diceteam.md)
 
 - #### [🎰 Casinos](/diceroom.md)
 
-- #### [🔋 Energías](/box.md)
-
-- #### [🧩 Accesorios](/box.md)
+- #### [🧩 Accesorios](/accesories.md)
 
 ### **COMPETICIONES**
 
-- #### [🤜 Adventura](/box.md)
+- #### [🤜 Modo PvE](/dicerway.md)
 
-- #### [🏟 Casino(PVP)](/pvp.md)
-
-- #### [🏆 Liga](/box.md)
+- #### [🏟 Modo PvP](/pvpmode.md)
 
 ### **TOKENOMIC**
 
@@ -40,12 +36,8 @@
 
 - #### [📊 Distribución del Token](/distributiontoken.md)
 
-### [🏬 Marketplace](/marketplace.md)
+### [🗺 Roadmap](/roadmap.md)
 
-### [🗺 Roadmap](/box.md)
-
-### [👥 ¿Quienes Somos?](/box.md)
-
-### [🔄 Actualizaciones](/actualization.md)
+### [👥 ¿Quienes Somos?](/whoweare.md)
 
 ### [⁉️ Preguntas Frecuentes](/faqs.md)
