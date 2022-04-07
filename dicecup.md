@@ -47,10 +47,11 @@ Las estadísticas de estos **Cubiletes** serán las siguientes:
 
 
 Las probabilidades de atracción del **Magnetismo** serán las siguientes:
+
 | Magnetismo/Calidad| Plástico | Esmeralda | Zafiro     | Rubi     | Diamante |
 | :-                | :-:      | :-:       | :-:        | :-:      |:-:       |
-| Tipo 1            | 50%      | 20%       | 5%         | 5%       | 5%       |
+| Tipo 1            | 50%      | 20%       | 20%        | 5%       | 5%       |
 | Tipo 2            | 20%      | 50%       | 20%        | 5%       | 5%       |
-| Tipo 3            | 20%      | 20%       | 50%        | 20%      | 20%      |
+| Tipo 3            | 5%       | 20%       | 50%        | 20%      | 5%       |
 | Tipo 4            | 5%       | 5%        | 20%        | 50%      | 20%      |
-| Tipo 5            | 5%       | 5%        | 5%         | 20%      | 50%      |
+| Tipo 5            | 5%       | 5%        | 20%        | 20%      | 50%      |
