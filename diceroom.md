@@ -1,10 +1,10 @@
 # Dicerooms
 
-Dice Poker Club posee una zona especial de 6 áreas, que representan las caras de un dado. **Cada  una de estas caras están repletas de casinos divididos en Dicerooms. Estos casinos están distribuidos de manera uniforme, por lo que cada cara posee la misma cantidad de Casinos y por tanto de Dicerooms.**
+Dice Poker Club posee una zona especial de 6 áreas, que representan las caras de un dado. **Cada una de estas caras están repletas de casinos divididos en Dicerooms. Estos casinos están distribuidos de manera uniforme, por lo que cada cara posee la misma cantidad de Casinos y por tanto de Dicerooms.**
 
 ## Características de los Dicerooms
 
-Los Dicerooms dentro de los casinos pueden ser de 6 tipos diferentes: Diceroom Pequeño, Diceroom Salón, Diceroom Intermedio, Gran Diceroom, Diceroom de Torneos y Diceroom VIP, estos últimos pertenecientes a la Federación (Propios del juego)
+Los Dicerooms dentro de los casinos pueden ser de 6 tipos diferentes: Diceroom Pequeño, Diceroom Salón, Diceroom Intermedio, Gran Diceroom, Diceroom de Torneos y Diceroom VIP.
 
 La diferencia entre cada tipo es básicamente su tamaño y por tanto la capacidad de acoger jugadores en su interior. Los casinos son especializados y solo poseen un tipo de Diceroom. En las siguiente tabla mostramos la capacidad de cada Diceroom según su tipo:
 
@@ -14,14 +14,14 @@ La diferencia entre cada tipo es básicamente su tamaño y por tanto la capacida
 | D. Salón      | 25                     |
 | D. Intermedio | 50                     |
 | Gran D.       | 100                    |
-| D. dee Torneo | 200                    |
+| D. de Torneo  | 200                    |
 | D. VIP        | 1000                   |
 
 ## Funcionamiento:
 
 Los Diceroom son una parte muy importante del juego. Todas las partidas tipo PvP, independientemente del evento o modalidad, se juegan dentro de un Diceroom.
 
-Los Dicerooms pueden ser utilizados por sus propietarios para organizar eventos propios. También es posible ofrecer configuraciones de partidas PvP diferentes a las estándares. Esta característica es solo una dentro de todas las opciones de personalización a las que podrás acceder.
+Pueden ser utilizados por sus propietarios para organizar eventos propios. También es posible ofrecer configuraciones de partidas PvP diferentes a las estándares. Esta característica es solo una, dentro de todas las opciones de personalización a las que podrás acceder.
 
 *Una vez compres un Diceroom, estos solo tendrán la inmobiliaria necesaria para jugar partidas PvP estándares (rápidas) que se celebran de pie. Para poder desbloquear más funcionalidades deberás mejorarlos añadiendo accesorios como pueden ser sillas.
 

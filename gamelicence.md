@@ -1,7 +1,7 @@
 # Licencia de Juego
 
 ¿Ya formaste tu equipo? Entonces ¡es hora de jugar!, pero antes, **hazte con tu Licencia de Juego**. 
-# Generalidades
+## Generalidades
 
 Las Licencias de Juego son una condición necesaria para jugar. Una vez formado un equipo es OBLIGATORIO que el mismo se encuentre bajo licencia activa antes de poder acceder a cualquier modo de juego.
 ## Duración y costo de las Licencias

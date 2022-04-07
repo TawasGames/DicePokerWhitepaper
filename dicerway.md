@@ -10,9 +10,11 @@ En los primeros niveles pondrás a prueba tus conocimientos básicos, estando li
 
 ## Niveles y Recompensas
 
-Al recorrer el **Camino del Dicer, encontrarás un total de 45 zonas de juego, compuestos por Parques, Plazas, Casas de Apuestas, Casinos y Salas de la Federación.** Como jugador novato debes labrarte una reputación hasta convertirte en el mejor. Será un camino largo pero valdrá el esfuerzo traducido en increíbles recompensas.
+Al recorrer el **Camino del Dicer, encontrarás un total de 45 zonas de juego, compuestas por Parques, Plazas, Casas de Apuestas, Casinos y Salas de la Federación.** Como jugador novato debes labrarte una reputación hasta convertirte en el mejor. Será un camino largo pero valdrá el esfuerzo traducido en increíbles recompensas.
 
 Las recompensas aumentarán con cada nivel y serán controladas por la Federación (Oráculo). **Estas serán variables dependiendo del estado y el valor actual del Token, pero siempre serán justas y acorde al nivel del jugador.** Juega diariamente, mejora tu equipo y haz crecer tus ganancias junto a tu prestigio de Dicer.
+
+
 
 ## Poker skill y Energía en el modo PVE
 

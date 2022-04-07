@@ -1,20 +1,20 @@
 # Accesorios
 
-Los accesorios serán un complemento que harán mucho más dinámico **Dice Poker Club**. Se implementarán 2 tipos de accesorios divididos en **NFT y no NFT**. 
+Los accesorios son un complemento especial en **Dice Poker Club**. Se implementarán 2 tipos de accesorios divididos en **NFT y no NFT**.
 Los NFTs serán accesorios únicos que solo poseerá 1 usuario a la vez. 
 Los no NFT serán de multiples obtenciones y para aumentar su relevancia tendrán repercusión directa en la jugabilidad.
 ## Obtención de accesorios
 
 **Para obtener accesorios solo debes hacer una cosa, jugar a Dice Poker Club**. 
 
-Al final de cada nivel del modo PvE, ganarás un cofre especial luego de derrotar a cada Jefe Final. Dentro de cada cofre, además de la recompensa en tokens, encontrarás distintos tipos y clases de accesorios.
+Al final de cada nivel del modo PvE, ganarás un cofre especial luego de derrotar a cada Jefe Final. Dentro de cada cofre, además de la recompensa en tokens correspondiente, encontrarás distintos tipos y clases de accesorios.
 
 **Los accesorios no serán los mismos para cada jugador, la recompensa será variable.** Pueden coincidir en los de tipo no NFT, como por ejemplo, una activación libre de potenciadores.
 
-También podrás obtener accesorios como premios en Torneos y Ligas
+También podrás obtener accesorios como premios en Torneos y Ligas.
 ## Algunos accesorios y sus funciones
 
-Ya te adelantamos algo, pero habrá muchos otros. 
+>💡 Ya te adelantamos algo, pero habrá muchos otros. 
 
 ### Accesorios de estética: NFT y no NFT
 

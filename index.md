@@ -20,9 +20,9 @@
 
 - #### [💎 Licencia](/gamelicence.md)
 
-- #### [🎰 Casinos](/diceroom.md)
+- #### [🎰 Diceroom](/diceroom.md)
 
-- #### [🧩 Accesorios](/accesories.md)
+- #### [🧩 Accesorios](/accessories.md)
 
 ### **COMPETICIONES**
 
