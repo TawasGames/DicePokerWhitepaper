@@ -12,11 +12,13 @@
 
 - #### [🎮 Mecanicas](/gameplay.md)
 
+- #### [💎 Equipos](/diceteam.md)
+
 - #### [🥃 Cubiletes](/dicecup.md)
 
 - #### [🎲 Paquete de Dados](/dicepack.md)
 
-- #### [💎 Equipos](/diceteam.md)
+- #### [💎 Licencia](/gamelicence.md)
 
 - #### [🎰 Casinos](/diceroom.md)
 
