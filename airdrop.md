@@ -14,3 +14,5 @@ Por cada equipo formado y a la espera se repartirán $DICE teniendo en cuenta la
 
 - Dimante: 5x $DICE 
 
+> 💡 Próximamente estaremos añadiendo nueva información referente a este apartado en específico.
+

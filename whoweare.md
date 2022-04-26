@@ -50,5 +50,3 @@ El plus que cualquier proyecto BlockChain necesita para desarrollarse exitosamen
 ----------------------------------------------------------------------------------------------------
 
 Además, en nuestro equipo trabajan **Desarrolladores, Analistas en sistemas, Diseñadores graficos, Diseñadores de entornos e Ingenieros**.
-
-Adicionalmente, contamos con un equipo de 10 asesores, nuestros Embajadores, que nos apoyan día a día en mejorar y difundir el proyecto. Todos tienen comunidades enormes para sumar a la de DiceBet. Será redundante nombrarlos, porque se hará viral su participación en el proyecto
