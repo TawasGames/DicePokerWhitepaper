@@ -1,5 +1,7 @@
 # Distribución del Token
 
+> 💡 Próximamente estaremos añadiendo nueva información referente a este apartado en específico.
+
 | Tokenomic                       | Asignación| Porcentage | Descripción                                      |
 | ---                             | ---       | ---        | ---                                              |
 | Total Supply                    | 5.000.000 | 100%       |                                                  |
