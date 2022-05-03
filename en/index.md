@@ -1,34 +1,34 @@
 # Whitepaper
 
-### [🎲 DicePoker](/presentation.md)
+### [🎲 DicePoker](/1presentation.md)
 
 ### **PRE-SALES**
 
-- #### [💰 Token Sale](/tokensell.md)
+- #### [💰 Token Sale](/1tokensell.md)
 
-- #### [📦 Boxes](/box.md)
+- #### [📦 Boxes](/1box.md)
 
 ### **GAMEPLAY**
 
-- #### [🎮 Mechanics](/gameplay.md)
+- #### [🎮 Mechanics](/1gameplay.md)
 
-- #### [💎 Teams](/diceteam.md)
+- #### [💎 Teams](/1diceteam.md)
 
-- #### [🥃 Cups](/dicecup.md)
+- #### [🥃 Cups](/1dicecup.md)
 
-- #### [🎲 Dice Pack](/dicepack.md)
+- #### [🎲 Dice Pack](/1dicepack.md)
 
-- #### [💎 License](/gamelicence.md)
+- #### [💎 License](/1gamelicence.md)
 
-- #### [🎰 Diceroom](/diceroom.md)
+- #### [🎰 Diceroom](/1diceroom.md)
 
-- #### [🧩 Accessories](/accessories.md)
+- #### [🧩 Accessories](/1accessories.md)
 
 ### **COMPETITIONS**
 
-- #### [🤜 PvE Mode](/dicerway.md)
+- #### [🤜 PvE Mode](/1dicerway.md)
 
-- #### [🏟 PvP Mode](/pvpmoden.md)
+- #### [🏟 PvP Mode](/pvpmode.md)
 
 ### **TOKENOMIC**
 
