@@ -2,9 +2,6 @@
 
 ### [🎲 DicePoker](/presentation.md)
 
-
-### [🎲 DicePoker](/presentation.md)
-
 ### **PRE-SALES**
 
 - #### [💰 Token Sale](/tokensell.md)
