@@ -1,4 +1,3 @@
-
 # Whitepaper
 
 ### [🎲 DicePoker](/presentation.md)
