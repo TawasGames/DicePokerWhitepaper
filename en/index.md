@@ -2,8 +2,7 @@
 # Whitepaper
 
 ### [🎲 DicePoker](/presentation.md)
-=======
-#white paper
+
 
 ### [🎲 DicePoker](/presentation.md)
 
