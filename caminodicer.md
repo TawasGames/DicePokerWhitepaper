@@ -14,6 +14,7 @@ Al recorrer el **Camino del Dicer, encontrarás un total de 45 zonas de juego, c
 
 Las recompensas aumentarán con cada nivel y serán controladas por la Federación (Oráculo). **Estas serán variables dependiendo del estado y el valor actual del Token, pero siempre serán justas y acorde al nivel del jugador.** Juega diariamente, mejora tu equipo y haz crecer tus ganancias junto a tu prestigio de Dicer.
 
+Podrás Jugar cada locación hasta que logres el titulo de campion en cada una de ella, una vez seas campeon solo obtendrás experiencia por volver a jugar el nivel superado, experiencia que necesitarás para poder avanzar en las zonas de juego.
 
 
 ## Poker skill y Energía en el modo PVE
