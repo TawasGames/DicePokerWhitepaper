@@ -40,6 +40,6 @@
 
 ### [🗺 Roadmap](/1roadmap.md)
 
-### [👥 Who are we?](/1whoweare.md)
+### [👥 Who are we?](/1box.md)
 
 ### [⁉️ Frequently Asked Questions](/faqs.md)
