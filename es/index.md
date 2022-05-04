@@ -1,45 +1,45 @@
 # Whitepaper
 
-### [🎲 DicePoker](/presentation.md)
+### [🎲 DicePoker](presentation.md)
 
 ### **PRE-VENTAS**
 
-- #### [💰 Venta Token](/tokensell.md)
+- #### [💰 Venta Token](tokensell.md)
 
-- #### [📦 Cajas](/box.md)
+- #### [📦 Cajas](box.md)
 
 ### **JUGABILIDAD**
 
-- #### [🎮 Mecanicas](/gameplay.md)
+- #### [🎮 Mecanicas](gameplay.md)
 
-- #### [💎 Equipos](/diceteam.md)
+- #### [💎 Equipos](diceteam.md)
 
-- #### [🥃 Cubiletes](/dicecup.md)
+- #### [🥃 Cubiletes](dicecup.md)
 
-- #### [🎲 Paquete de Dados](/dicepack.md)
+- #### [🎲 Paquete de Dados](dicepack.md)
 
-- #### [💎 Licencia](/gamelicence.md)
+- #### [💎 Licencia](gamelicence.md)
 
-- #### [🎰 Diceroom](/diceroom.md)
+- #### [🎰 Diceroom](diceroom.md)
 
-- #### [🧩 Accesorios](/accessories.md)
+- #### [🧩 Accesorios](accessories.md)
 
 ### **COMPETICIONES**
 
-- #### [🤜 Modo PvE](/dicerway.md)
+- #### [🤜 Modo PvE](dicerway.md)
 
-- #### [🏟 Modo PvP](/pvpmode.md)
+- #### [🏟 Modo PvP](pvpmode.md)
 
 ### **TOKENOMIC**
 
-- #### [👮🏻 IFDP](/1oracle.md)
+- #### [👮🏻 IFDP](1oracle.md)
 
-- #### [💰 Información del Token](/1infotoken.md)
+- #### [💰 Información del Token](1infotoken.md)
 
-- #### [📊 Distribución del Token](/1distributiontoken.md)
+- #### [📊 Distribución del Token](1distributiontoken.md)
 
-### [🗺 Roadmap](/1roadmap.md)
+### [🗺 Roadmap](1roadmap.md)
 
-### [👥 ¿Quienes Somos?](/whoweare.md)
+### [👥 ¿Quienes Somos?](whoweare.md)
 
-### [⁉️ Preguntas Frecuentes](/faqs.md)
+### [⁉️ Preguntas Frecuentes](faqs.md)

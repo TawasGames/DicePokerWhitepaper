@@ -26,7 +26,7 @@
 
 ### **COMPETICIONES**
 
-- #### [🤜 Modo PvE](/dicerway.md)
+- #### [🤜 Modo PvE](/caminodicer.md)
 
 - #### [🏟 Modo PvP](/pvpmodo.md)
 
