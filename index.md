@@ -28,7 +28,7 @@
 
 - #### [🤜 Modo PvE](/caminodicer.md)
 
-- #### [🏟 Modo PvP](/pvpmodo.md)
+- #### [🏟 Modo PvP](/pvpmode.md)
 
 ### **TOKENOMIC**
 
