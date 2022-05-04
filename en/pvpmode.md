@@ -1,4 +1,4 @@
-## PvP Mode
+# PvP Mode
 Welcome to the **Dice Poker Club PvP Mode**. In this modality, as its name indicates, you will face other players in exciting games of different types.
 > Not all PvP features will be released initially, but we will update periodically.
 
