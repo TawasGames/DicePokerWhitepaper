@@ -1,8 +1,8 @@
 # Whitelist:
 
-En esta sección estaremos tratando toda la información relacionada con los loots que podrán obtener los jugadores para comenzar su aventura en Dice Land.
+En esta sección estaremos tratando toda la información relacionada con los recursos que podrán obtener los jugadores para comenzar su aventura en Dice Land.
 
-Si futuros Dicers, habrá Whitelist en nuestro proyecto y será épico ¿Quienes serán nuestros usuarios VIP? . Nuestro equipo quiere que la relación con la comunidad sea excelente desde un principio y hemos optado por realizar una colaboración de mutuo beneficio con todos aquellos que se comprometan con el proyecto desde el día cero.
+Habrá Whitelist en nuestro proyecto y será épico ¿Quienes serán nuestros usuarios VIP? . Nuestro equipo quiere que la relación con la comunidad sea excelente desde un principio y hemos optado por realizar una colaboración de mutuo beneficio con todos aquellos que se comprometan con el proyecto desde el día cero.
 
 ## Beneficios:
 
