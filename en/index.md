@@ -28,7 +28,7 @@
 
 - #### [🤜 PvE Mode](/en/dicerway.md)
 
-- #### [🏟 PvP Mode](/en/pvpmode.md)
+- #### [🏟 PvP Mode](pvpmode.md)
 
 ### **TOKENOMIC**
 
