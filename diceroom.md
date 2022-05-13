@@ -39,5 +39,5 @@ Los administradores tienen la responsabilidad de mantener activo el casino y de 
 
 Por solo poseer un Diceroom, ya obtienes ganancias por cada partida que se juegue en el mismo. Además, si añadimos la posibilidad de organizar eventos propios que atraigan jugadores ¡Imagina las posibilidades! También es válido mencionar que la Federación pagará bonos a los mejores Managers.
 
-Con los Diceroom también añadiremos características y funcionalidades que quizás no hayas visto nunca en un juego Play to Earn.
+Los Diceroom añadirán al juego características y funcionalidades que quizás no hayas visto nunca en un juego Play to Earn.
 
