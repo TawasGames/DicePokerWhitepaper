@@ -25,32 +25,37 @@ The EC shows the number of maximum “Energy” you can assimilate to a shaker.
 
 **El Magnetismo es variable. Cada calidad posee rangos de Magnetismo** Puedes ver estos datos en la Tabla de características de más adelante.
 
-El **Magnetismo** indica a que calidad de Paquete de Dados tiene más posibilidades de atraer un **Cubilete** durante una partida. Un **Cubilete** con un **Magnetismo** tipo 3 (Zafiro) no atraerá siempre Paquetes de calidad Zafiro, pero si tendrá un % alto de probabilidades. Puedes consultar estos % de probabilidades en la tabla de Tipos de Magnetismo.
-### Ranuras de Poder:
+### **Magnetism:**
+**This characteristic is specific to each Cup and is never zero**
 
-**Esta es una característica ESPECIAL de cada Cubilete** 
+**Magnetism is variable. Each quality has ranks of Magnetism** You can see this data in the Characteristics Table below.
 
-**Las Ranuras de Poder es variable. Cada calidad posee rangos de Ranuras de Poder.** Puedes ver los detalles en la Tabla de características de más adelante.
+The **Magnetism** indicates which quality of Dice Pack is most likely to attract a **Cup** during a game. A **Goblet** with a **Magnetism** type 3 (Sapphire) will not always attract Sapphire quality Packs, but it will have a high % chance. You can consult this % of probabilities in the table of Types of Magnetism.
+### Power Slots:
 
-Las **Ranuras de Poder** es la capacidad máxima de mejoras que puedes realizar sobre un **Paquete de Dados**. Podrás aplicar tantas mejoras como **Ranuras de Poder** posea el Cubilete(s) con que formes equipo. Más detalles en **Cubiletes.**
+**This is a SPECIAL feature of each Cup**
 
-Las estadísticas de estos **Cubiletes** serán las siguientes:
+**Power Slots are variable. Each quality has a rank of Power Slots.** You can see the details in the Characteristics Table below.
 
-| Rareza    | Cap. Paquetes | Cap. Energía | Magnetismo | Ranuras  |
-| :-        |  :-:          | :-:          | :-:        | :-:      |
-| Diamante  | 5             | 50           | 1 - 5      | 0 - 3    |
-| Rubí      | 4             | 40           | 1 - 5      | 0 - 3    |
-| Zafiro    | 3             | 30           | 1 - 5      | 0 - 3    |
-| Esmeralda | 2             | 20           | 1 - 5      | 0 - 3    |
-| Plástico  | 1             | 10           | 1 - 5      | 0 - 3    |          
+**Power Slots** is the maximum capacity of upgrades you can make on a **Dice Pack**. You can apply as many upgrades as there are **Power Slots** owned by the Cup(s) you team up with. More details in **Cubiletes.**
+
+The statistics of these **Cups** will be as follows:
+
+| Rarity | Chap. Packages | Chap. Energy | Magnetism | Slots |
+| :- | :-: | :-: | :-: | :-: |
+| Diamond | 5 | 50 | 1 - 5 | 0 - 3 |
+| Ruby | 4 | 40 | 1 - 5 | 0 - 3 |
+| Sapphire | 3 | 30 | 1 - 5 | 0 - 3 |
+| Emerald | 2 | 20 | 1 - 5 | 0 - 3 |
+| Plastic | 1 | 10 | 1 - 5 | 0 - 3 |
 
 
-Las probabilidades de atracción del **Magnetismo** serán las siguientes:
+The probabilities of attraction of **Magnetism** will be the following:
 
-| Tipo/Probabilidad | Plástico | Esmeralda | Zafiro     | Rubi     | Diamante |
-| :-                | :-:      | :-:       | :-:        | :-:      |:-:       |
-| Tipo 1            | 50%      | 20%       | 20%        | 5%       | 5%       |
-| Tipo 2            | 20%      | 50%       | 20%        | 5%       | 5%       |
-| Tipo 3            | 5%       | 20%       | 50%        | 20%      | 5%       |
-| Tipo 4            | 5%       | 5%        | 20%        | 50%      | 20%      |
-| Tipo 5            | 5%       | 5%        | 20%        | 20%      | 50%      |
+| Type/Probability | Plastic | Emerald | Sapphire | Ruby | Diamond |
+| :- | :-: | :-: | :-: | :-: |:-: |
+| Type 1 | 50% | 20% | 20% | 5% | 5% |
+| Type 2 | 20% | 50% | 20% | 5% | 5% |
+| Type 3 | 5% | 20% | 50% | 20% | 5% |
+| Type 4 | 5% | 5% | 20% | 50% | 20% |
+| Type 5 | 5% | 5% | 20% | 20% | 50% |
