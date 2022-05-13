@@ -1,8 +1,8 @@
 # Accesorios
 
-Los accesorios son un complemento especial en **Dice Poker Club**. Se implementarán 2 tipos de accesorios divididos en **NFT y no NFT**.
-Los NFTs serán accesorios únicos que solo poseerá 1 usuario a la vez. 
-Los no NFT serán de multiples obtenciones y para aumentar su relevancia tendrán repercusión directa en la jugabilidad.
+Los accesorios son un complemento especial en **Dice Poker Club**. Se implementarán 2 tipos de accesorios: **NFT y no NFT**.
+Los accesorios de tipo NFTs serán únicos, es decir, sin repeticiones dentro o fuera del juego. 
+Los accesorios no NFT serán de uso común y estarán al alcanse de todos los jugadores. Su relevancia está en la influencia directa que tendrán en la jugabilidad de Dice Poker Club.
 ## Obtención de accesorios
 
 **Para obtener accesorios solo debes hacer una cosa, jugar a Dice Poker Club**. 
