@@ -12,13 +12,13 @@ The PC is fixed. Every shaker quality holds a specific CP.
 You will be able to see its data in the stats chart later.
 the PC 	shows the number of “Dice Packs” you can associate to a Shaker when creating a team.
 
-### **Capacidad de Energía:**
+### **E.C:**
 
-**Esta característica es propia de cada Cubilete y nunca es cero**
+This a stat proper of the shakers and it is never 0.
 
-**La Capacidad de Energía es fija**. **Cada calidad de Cubilete posee una Capacidad de Energía específica.** Puedes ver estos datos en la Tabla de características de más adelante.
+The EC is fixed. Every shaker quality holds a specific EC. You will be able to see its data in the stats chart later.
 
-La **Capacidad de Energía** indica la cantidad de **Energía** máxima que puede asimilar un **Cubilete**.
+The EC shows the number of maximum “Energy” you can assimilate to a shaker.
 
 ### **Magnetismo:**
 **Esta característica es propia de cada Cubilete y nunca es cero**
