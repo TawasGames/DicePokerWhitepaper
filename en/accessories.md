@@ -1,8 +1,8 @@
 # Accessories
 
-Accessories are an essential part in **Dice Poker Club**. Two different types of accessories will be employed, divided into **NFT and non-NFT**.
-The NFTs will be unique accessories which only 1 user is going to use at a time.
-The non-NFTs will be multiple-obtention accessories and in order to raise its importance they will have a direct effect over the gameplay.
+Accessories are a special add-on at **Dice Poker Club**. We will implement two types of accessories: **NFT and non-NFT**.
+NFT-type accessories will be unique, without repetitions in or out of the game.
+Non-NFT accessories will be in common use and available to all players. Its relevance is in the direct influence it will have on the gameplay of Dice Poker Club.
 
 ## Accessories obtention
 
