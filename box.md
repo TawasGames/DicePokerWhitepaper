@@ -31,7 +31,7 @@ Los cubiletes son muy importantes en el juego, pues complementan a los dados en 
 - Todas las cajas aseguran obtener al menos 1 cubilete con rareza base, por tanto no existe la posibilidad de obtener una caja vacía. Si esto llegara a ocurrir debe reportarlo de inmediato.
 ### Cajas de DiceRoom:
 
-Por último, pero no menos importantes, encontramos a los DiceRooms. De manera directa no tendrán una influencia sustancial en el juego, pero en las fases más avanzadas serán cruciales para crecer dentro de Dice Poker Club. En estas locaciones se jugarán las partidas más importantes de Diceland tales como los torneos. Para más información visitar la sección dedicada a los Dicerooms. Cada caja de dicerooms tendrá  las siguientes características:
+Por último, pero no menos importantes, encontramos a los DiceRooms. De manera directa no tendrán una influencia sustancial en el juego, pero en las fases más avanzadas serán cruciales para crecer dentro de Dice Poker Club. Las partidas más importantes del juego, tales como los torneos, se celebrarán en los Dicerooms. Para más información visitar la sección dedicada a los Dicerooms. Cada caja de dicerooms tendrá  las siguientes características:
 
 - Las cajas de **Dicerooms** contendrán X cantidad de Dicerooms.
 - Se pueden obtener Dicerooms de distinta calidad (rarezas).
