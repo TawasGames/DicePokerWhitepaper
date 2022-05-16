@@ -1,4 +1,4 @@
-# Airdrop
+# **Airdrop**
 
 Loyalty is rewarded, and it is our pleasure to announce, dear “Dicers,” we will be carrying out the Airdrop event for those NFT Holders who trusted in the project and have stayed with us.
 

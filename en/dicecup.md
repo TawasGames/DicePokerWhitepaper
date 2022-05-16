@@ -1,7 +1,7 @@
-# Shakers
+# Dicecup
 
-Shakers are one of the NFTs needed to form a team and compete in Dice Poker Club. You will need at least 1 shaker of minimum quality (plastic) to initiate. These are obtained opening boxes, or purchasing them from other players in the marketplace.
-Shakers have 4 stats, each one with a different role in the game. They are: pack capacity (PC), energy capacity (EC), Durability (D), Magnetism (M) and power slots (SP). The following are their function in the game.
+Dicecup are one of the NFTs needed to form a team and compete in Dice Poker Club. You will need at least 1 shaker of minimum quality (plastic) to initiate. These are obtained opening boxes, or purchasing them from other players in the marketplace.
+Dicecup have 4 stats, each one with a different role in the game. They are: pack capacity (PC), energy capacity (EC), Durability (D), Magnetism (M) and power slots (SP). The following are their function in the game.
 
 ### **P.C:**
 
@@ -14,24 +14,18 @@ the PC 	shows the number of “Dice Packs” you can associate to a Shaker when 
 
 ### **E.C:**
 
-This a stat proper of the shakers and it is never 0.
+This a stat proper of the Dicecup and it is never 0.
 
 The EC is fixed. Every shaker quality holds a specific EC. You will be able to see its data in the stats chart later.
 
 The EC shows the number of maximum “Energy” you can assimilate to a shaker.
-
-### **Magnetismo:**
-**Esta característica es propia de cada Cubilete y nunca es cero**
-
-**El Magnetismo es variable. Cada calidad posee rangos de Magnetismo** Puedes ver estos datos en la Tabla de características de más adelante.
-
 ### **Magnetism:**
 **This characteristic is specific to each Cup and is never zero**
 
 **Magnetism is variable. Each quality has ranks of Magnetism** You can see this data in the Characteristics Table below.
 
 The **Magnetism** indicates which quality of Dice Pack is most likely to attract a **Cup** during a game. A **Goblet** with a **Magnetism** type 3 (Sapphire) will not always attract Sapphire quality Packs, but it will have a high % chance. You can consult this % of probabilities in the table of Types of Magnetism.
-### Power Slots:
+### **Power Slots:**
 
 **This is a SPECIAL feature of each Cup**
 
