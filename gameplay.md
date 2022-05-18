@@ -43,7 +43,7 @@ Dependiendo del Cubilete en uso, son los Paquete de dados que saldrán a la mesa
 
 ## Reglas de Desempate:
 
-Regla # 1: En caso de empate, se tendrán en cuenta los “puntos de desempate” acumulados durante la partida. Si persiste el empate se evalúa la Regla # 2.
+Regla # 1: En caso de empate, se tendrán en cuenta los “puntos de desempate”. Si persiste el empate se evalúa la Regla # 2.
 
 Regla # 2: Se juega una ronda adicional (Muerte Súbita). Si persiste el empate se evalúa la Regla # 1.
 
