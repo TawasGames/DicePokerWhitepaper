@@ -1,16 +1,19 @@
 # **Token Distribution**
 
-> 💡 Soon, we will be adding new information regarding this specific section.
+# Token Distribution
+
+
 
 | Tokenomy | Assignment| percentage | Description |
 | --- | --- | --- | --- |
-| TotalSupply | 5,000,000 | 100% | |
-| Gaming Incentives | 1,500,000 | 30% | Each Transaction returned to this pool includes: Purchase of Cups and Dice Pack, Games License. There is also a 15% fee on the NFT market that will return $DICE to this place |
-| New Game Features | 250,000 | 5% | Locked until new features are released |
-| Liquidity | 751,230 | ~15% | Liquidity Pool Blocked for 11 Months |
-| ILO fee | 18,000 | ~1.8% | Fees of (Unicrypt or whichever we list) to list ILO |
-| Development | 1,000,000 | 20% | Delivered at 25% monthly |
-| Marketing | 180,770 | ~2.2% | Reserved for Advertising Campaigns and Community Growth | 
-| Air Drop | 50,000 | 1% | Community Rewards |
-| Private Sale | 250,000 | 5% | Only a white list of approved portfolios to ensure proper financial management |
-| Public Sale | 1,000,000 | 20% | Sale on Unicrypt |
+| TotalSupply | 200,000,000 | 100% | |
+| Play to Earn | 56,000,000 | 28% | Each Transaction returned to this pool includes: Purchase of Cups and Dice Pack, Games License. There is also a 15% fee on the NFT market that will return $DICE to this place |
+| Staking Incentives | 40,000,000 | 20% | Locked until released until staking ends. |
+| Liquidity Reserve | 4,000,000 | 2% | Blocked Liquidity Reserve Pool |
+| advisor | 10,000,000 | 5% | Blocked for 3 months. |
+| Development | 36,000,000 | 18% | Delivered at 25% monthly |
+| Marketing | 10,000,000 | 5% | Reserved for Advertising Campaigns and Community Growth |
+| Air Drop | 2,000,000 | 1% | Community Rewards |
+| Ecosystem | 16,000,000 | 8% | Reserved for Game features |
+| Public Sale | 16,000,000 | 8% | To be announced soon |
+| Private Sale | 4,000,000 | 4% | To be announced soon |
