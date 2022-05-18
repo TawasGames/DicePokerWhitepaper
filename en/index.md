@@ -32,14 +32,14 @@
 
 ### **TOKENOMIC**
 
-- #### [👮🏻 IFDP](oracle.md)
+- #### [👮🏻 IFDP](1oracle.md)
 
-- #### [💰 Token Information](infotoken.md)
+- #### [💰 Token Information](1infotoken.md)
 
-- #### [📊 Token Distribution](distributiontoken.md)
+- #### [📊 Token Distribution](1distributiontoken.md)
 
 ### [🗺 Roadmap](roadmap.md)
 
-### [👥 Who are we?](box.md)
+### [👥 Who are we?](whoweare.md)
 
 ### [⁉️ Frequently Asked Questions](faqs.md)
