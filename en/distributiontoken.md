@@ -1,7 +1,5 @@
 # **Token Distribution**
 
-# Token Distribution
-
 
 
 | Tokenomy | Assignment| percentage | Description |
