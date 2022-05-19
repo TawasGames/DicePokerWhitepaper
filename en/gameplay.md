@@ -26,7 +26,7 @@ The more faces of the same type we assign to the space coinciding with the “fi
 Once you have filled in the space corresponding to a face (scored), you will not be able to replace this score; keep this factor in mind for your dice in the following rounds.
 
 ### **Values ​​of each face and maximum possible score:**
-
+![alt](DicePokerWhitepaper\img\619gO2XqozL._AC_SL1500_.jpg)
 - The **As** has a value of 6 points, and the maximum score you can obtain with them is 30, assigning a throw of 5 **Ases to the space of the Ace.**
 - The **K** has a value of 5 points, and the maximum score you can obtain with them is 25, assigning a throw of 5 **Ks** or **Aces (wildcards) to the space of the K. **
 - The **Q** has a value of 4 points, and the maximum score you can obtain with them is 20, assigning a roll of 5 **Qs** or **Aces (wildcards) to the space of the Q. **
