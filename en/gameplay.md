@@ -49,3 +49,4 @@ Rule #3: If there is a Ruby or Diamond quality account among the tied players, i
 
 Rule # 4: If both tied players have Ruby or Diamond quality accounts, Rule # 1 is evaluated.
 
+![alt](https://github.com/TawasGames/DicePokerWhitepaper/blob/main/img/619gO2XqozL._AC_SL1500_.jpg?raw=true)
