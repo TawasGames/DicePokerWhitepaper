@@ -4,6 +4,8 @@
 
 ### **PRE-SALES**
 
+- #### [📄 WhiteList](whitelist.md)
+
 - #### [💰 Token Sale](tokensell.md)
 
 - #### [📦 Boxes](box.md)

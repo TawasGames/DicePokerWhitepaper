@@ -3,6 +3,7 @@
 ### [🎲 DicePoker](presentation.md)
 
 ### **PRE-VENTAS**
+- #### [📄 WhiteList](whitelist.md)
 
 - #### [💰 Venta Token](tokensell.md)
 
